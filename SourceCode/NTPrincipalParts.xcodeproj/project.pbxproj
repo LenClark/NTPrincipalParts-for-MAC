@@ -1,0 +1,1004 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BF82AB1F27981F7800F6ECF6 /* 37_Micah.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAC827981F7800F6ECF6 /* 37_Micah.txt */; };
+		BF82AB2027981F7800F6ECF6 /* 56_DanielOG.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAC927981F7800F6ECF6 /* 56_DanielOG.txt */; };
+		BF82AB2127981F7800F6ECF6 /* 04_Num.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACA27981F7800F6ECF6 /* 04_Num.txt */; };
+		BF82AB2227981F7800F6ECF6 /* 28_Odes.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACB27981F7800F6ECF6 /* 28_Odes.txt */; };
+		BF82AB2327981F7800F6ECF6 /* 18_2Esdras.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACC27981F7800F6ECF6 /* 18_2Esdras.txt */; };
+		BF82AB2427981F7800F6ECF6 /* 08_JudgesB.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACD27981F7800F6ECF6 /* 08_JudgesB.txt */; };
+		BF82AB2527981F7800F6ECF6 /* 20_Judith.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACE27981F7800F6ECF6 /* 20_Judith.txt */; };
+		BF82AB2627981F7800F6ECF6 /* 57_DanielTh.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AACF27981F7800F6ECF6 /* 57_DanielTh.txt */; };
+		BF82AB2727981F7800F6ECF6 /* 32_Job.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD027981F7800F6ECF6 /* 32_Job.txt */; };
+		BF82AB2827981F7800F6ECF6 /* 54_BelOG.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD127981F7800F6ECF6 /* 54_BelOG.txt */; };
+		BF82AB2927981F7800F6ECF6 /* 42_Nahum.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD227981F7800F6ECF6 /* 42_Nahum.txt */; };
+		BF82AB2A27981F7800F6ECF6 /* 36_Hosea.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD327981F7800F6ECF6 /* 36_Hosea.txt */; };
+		BF82AB2B27981F7800F6ECF6 /* 30_Qoheleth.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD427981F7800F6ECF6 /* 30_Qoheleth.txt */; };
+		BF82AB2C27981F7800F6ECF6 /* 33_Wisdom.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD527981F7800F6ECF6 /* 33_Wisdom.txt */; };
+		BF82AB2D27981F7800F6ECF6 /* 15_1Chron.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD627981F7800F6ECF6 /* 15_1Chron.txt */; };
+		BF82AB2E27981F7800F6ECF6 /* 10_Ruth.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD727981F7800F6ECF6 /* 10_Ruth.txt */; };
+		BF82AB2F27981F7800F6ECF6 /* 34_Sirach.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD827981F7800F6ECF6 /* 34_Sirach.txt */; };
+		BF82AB3027981F7800F6ECF6 /* 27_Psalms.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAD927981F7800F6ECF6 /* 27_Psalms.txt */; };
+		BF82AB3127981F7800F6ECF6 /* 55_BelTh.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADA27981F7800F6ECF6 /* 55_BelTh.txt */; };
+		BF82AB3227981F7800F6ECF6 /* 52_Lam.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADB27981F7800F6ECF6 /* 52_Lam.txt */; };
+		BF82AB3327981F7800F6ECF6 /* 49_Jer.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADC27981F7800F6ECF6 /* 49_Jer.txt */; };
+		BF82AB3427981F7800F6ECF6 /* 16_2Chron.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADD27981F7800F6ECF6 /* 16_2Chron.txt */; };
+		BF82AB3527981F7800F6ECF6 /* 44_Zeph.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADE27981F7800F6ECF6 /* 44_Zeph.txt */; };
+		BF82AB3627981F7800F6ECF6 /* 13_1Kings.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AADF27981F7800F6ECF6 /* 13_1Kings.txt */; };
+		BF82AB3727981F7800F6ECF6 /* 22_TobitS.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE027981F7800F6ECF6 /* 22_TobitS.txt */; };
+		BF82AB3827981F7800F6ECF6 /* 40_Jonah.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE127981F7800F6ECF6 /* 40_Jonah.txt */; };
+		BF82AB3927981F7800F6ECF6 /* 06_JoshB.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE227981F7800F6ECF6 /* 06_JoshB.txt */; };
+		BF82AB3A27981F7800F6ECF6 /* 17_1Esdras.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE327981F7800F6ECF6 /* 17_1Esdras.txt */; };
+		BF82AB3B27981F7800F6ECF6 /* 23_1Macc.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE427981F7800F6ECF6 /* 23_1Macc.txt */; };
+		BF82AB3C27981F7800F6ECF6 /* 59_SusTh.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE527981F7800F6ECF6 /* 59_SusTh.txt */; };
+		BF82AB3D27981F7800F6ECF6 /* 48_Isaiah.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE627981F7800F6ECF6 /* 48_Isaiah.txt */; };
+		BF82AB3E27981F7800F6ECF6 /* 26_4Macc.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE727981F7800F6ECF6 /* 26_4Macc.txt */; };
+		BF82AB3F27981F7800F6ECF6 /* 46_Zech.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE827981F7800F6ECF6 /* 46_Zech.txt */; };
+		BF82AB4027981F7800F6ECF6 /* 47_Malachi.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAE927981F7800F6ECF6 /* 47_Malachi.txt */; };
+		BF82AB4127981F7800F6ECF6 /* 41_Obadiah.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAEA27981F7800F6ECF6 /* 41_Obadiah.txt */; };
+		BF82AB4227981F7800F6ECF6 /* 45_Haggai.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAEB27981F7800F6ECF6 /* 45_Haggai.txt */; };
+		BF82AB4327981F7800F6ECF6 /* 38_Amos.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAEC27981F7800F6ECF6 /* 38_Amos.txt */; };
+		BF82AB4427981F7800F6ECF6 /* 51_EpJer.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAED27981F7800F6ECF6 /* 51_EpJer.txt */; };
+		BF82AB4527981F7800F6ECF6 /* 43_Habakkuk.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAEE27981F7800F6ECF6 /* 43_Habakkuk.txt */; };
+		BF82AB4627981F7800F6ECF6 /* 09_JudgesA.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAEF27981F7800F6ECF6 /* 09_JudgesA.txt */; };
+		BF82AB4727981F7800F6ECF6 /* 14_2Kings.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF027981F7800F6ECF6 /* 14_2Kings.txt */; };
+		BF82AB4827981F7800F6ECF6 /* 53_Ezek.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF127981F7800F6ECF6 /* 53_Ezek.txt */; };
+		BF82AB4927981F7800F6ECF6 /* 24_2Macc.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF227981F7800F6ECF6 /* 24_2Macc.txt */; };
+		BF82AB4A27981F7800F6ECF6 /* 31_Canticles.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF327981F7800F6ECF6 /* 31_Canticles.txt */; };
+		BF82AB4B27981F7800F6ECF6 /* 11_1Sam.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF427981F7800F6ECF6 /* 11_1Sam.txt */; };
+		BF82AB4C27981F7800F6ECF6 /* 25_3Macc.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF527981F7800F6ECF6 /* 25_3Macc.txt */; };
+		BF82AB4D27981F7800F6ECF6 /* 19_Esther.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF627981F7800F6ECF6 /* 19_Esther.txt */; };
+		BF82AB4E27981F7800F6ECF6 /* 03_Lev.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF727981F7800F6ECF6 /* 03_Lev.txt */; };
+		BF82AB4F27981F7800F6ECF6 /* 07_JoshA.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF827981F7800F6ECF6 /* 07_JoshA.txt */; };
+		BF82AB5027981F7800F6ECF6 /* 01_Gen.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAF927981F7800F6ECF6 /* 01_Gen.txt */; };
+		BF82AB5127981F7800F6ECF6 /* 12_2Sam.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFA27981F7800F6ECF6 /* 12_2Sam.txt */; };
+		BF82AB5227981F7800F6ECF6 /* 39_Joel.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFB27981F7800F6ECF6 /* 39_Joel.txt */; };
+		BF82AB5327981F7800F6ECF6 /* 02_Exod.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFC27981F7800F6ECF6 /* 02_Exod.txt */; };
+		BF82AB5427981F7800F6ECF6 /* 58_SusOG.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFD27981F7800F6ECF6 /* 58_SusOG.txt */; };
+		BF82AB5527981F7800F6ECF6 /* 29_Proverbs.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFE27981F7800F6ECF6 /* 29_Proverbs.txt */; };
+		BF82AB5627981F7800F6ECF6 /* 50_Baruch.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AAFF27981F7800F6ECF6 /* 50_Baruch.txt */; };
+		BF82AB5727981F7800F6ECF6 /* 21_TobitBA.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0027981F7800F6ECF6 /* 21_TobitBA.txt */; };
+		BF82AB5827981F7800F6ECF6 /* 05_Deut.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0127981F7800F6ECF6 /* 05_Deut.txt */; };
+		BF82AB5927981F7800F6ECF6 /* 35_PsSol.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0227981F7800F6ECF6 /* 35_PsSol.txt */; };
+		BF82AB5A27981F7800F6ECF6 /* 87-Re-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0427981F7800F6ECF6 /* 87-Re-morphgnt.txt */; };
+		BF82AB5B27981F7800F6ECF6 /* 76-2Ti-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0527981F7800F6ECF6 /* 76-2Ti-morphgnt.txt */; };
+		BF82AB5C27981F7800F6ECF6 /* 73-1Th-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0627981F7800F6ECF6 /* 73-1Th-morphgnt.txt */; };
+		BF82AB5D27981F7800F6ECF6 /* 72-Col-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0727981F7800F6ECF6 /* 72-Col-morphgnt.txt */; };
+		BF82AB5E27981F7800F6ECF6 /* 77-Tit-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0827981F7800F6ECF6 /* 77-Tit-morphgnt.txt */; };
+		BF82AB5F27981F7800F6ECF6 /* 83-1Jn-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0927981F7800F6ECF6 /* 83-1Jn-morphgnt.txt */; };
+		BF82AB6027981F7800F6ECF6 /* 70-Eph-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0A27981F7800F6ECF6 /* 70-Eph-morphgnt.txt */; };
+		BF82AB6127981F7800F6ECF6 /* 62-Mk-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0B27981F7800F6ECF6 /* 62-Mk-morphgnt.txt */; };
+		BF82AB6227981F7800F6ECF6 /* 65-Ac-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0C27981F7800F6ECF6 /* 65-Ac-morphgnt.txt */; };
+		BF82AB6327981F7800F6ECF6 /* 80-Jas-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0D27981F7800F6ECF6 /* 80-Jas-morphgnt.txt */; };
+		BF82AB6427981F7800F6ECF6 /* 81-1Pe-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0E27981F7800F6ECF6 /* 81-1Pe-morphgnt.txt */; };
+		BF82AB6527981F7800F6ECF6 /* 66-Ro-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB0F27981F7800F6ECF6 /* 66-Ro-morphgnt.txt */; };
+		BF82AB6627981F7800F6ECF6 /* 78-Phm-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1027981F7800F6ECF6 /* 78-Phm-morphgnt.txt */; };
+		BF82AB6727981F7800F6ECF6 /* 75-1Ti-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1127981F7800F6ECF6 /* 75-1Ti-morphgnt.txt */; };
+		BF82AB6827981F7800F6ECF6 /* 84-2Jn-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1227981F7800F6ECF6 /* 84-2Jn-morphgnt.txt */; };
+		BF82AB6927981F7800F6ECF6 /* 68-2Co-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1327981F7800F6ECF6 /* 68-2Co-morphgnt.txt */; };
+		BF82AB6A27981F7800F6ECF6 /* 86-Jud-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1427981F7800F6ECF6 /* 86-Jud-morphgnt.txt */; };
+		BF82AB6B27981F7800F6ECF6 /* 79-Heb-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1527981F7800F6ECF6 /* 79-Heb-morphgnt.txt */; };
+		BF82AB6C27981F7800F6ECF6 /* 74-2Th-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1627981F7800F6ECF6 /* 74-2Th-morphgnt.txt */; };
+		BF82AB6D27981F7800F6ECF6 /* 64-Jn-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1727981F7800F6ECF6 /* 64-Jn-morphgnt.txt */; };
+		BF82AB6E27981F7800F6ECF6 /* 67-1Co-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1827981F7800F6ECF6 /* 67-1Co-morphgnt.txt */; };
+		BF82AB6F27981F7800F6ECF6 /* 69-Ga-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1927981F7800F6ECF6 /* 69-Ga-morphgnt.txt */; };
+		BF82AB7027981F7800F6ECF6 /* 63-Lk-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1A27981F7800F6ECF6 /* 63-Lk-morphgnt.txt */; };
+		BF82AB7127981F7800F6ECF6 /* 85-3Jn-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1B27981F7800F6ECF6 /* 85-3Jn-morphgnt.txt */; };
+		BF82AB7227981F7800F6ECF6 /* 82-2Pe-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1C27981F7800F6ECF6 /* 82-2Pe-morphgnt.txt */; };
+		BF82AB7327981F7800F6ECF6 /* 71-Php-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1D27981F7800F6ECF6 /* 71-Php-morphgnt.txt */; };
+		BF82AB7427981F7800F6ECF6 /* 61-Mt-morphgnt.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF82AB1E27981F7800F6ECF6 /* 61-Mt-morphgnt.txt */; };
+		BF87D4902799AAF200E18FAB /* classReference.m in Sources */ = {isa = PBXBuildFile; fileRef = BF87D48F2799AAF200E18FAB /* classReference.m */; };
+		BF87D4952799BB5900E18FAB /* frmReferences.m in Sources */ = {isa = PBXBuildFile; fileRef = BF87D4932799BB5900E18FAB /* frmReferences.m */; };
+		BF87D4962799BB5900E18FAB /* frmReferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF87D4942799BB5900E18FAB /* frmReferences.xib */; };
+		BF8E9151278E127A00ACCB48 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E9150278E127A00ACCB48 /* AppDelegate.m */; };
+		BF8E9153278E128400ACCB48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF8E9152278E128400ACCB48 /* Assets.xcassets */; };
+		BF8E9156278E128400ACCB48 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF8E9154278E128400ACCB48 /* MainMenu.xib */; };
+		BF8E9159278E128400ACCB48 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E9158278E128400ACCB48 /* main.m */; };
+		BF8E9164278E155E00ACCB48 /* classBooks.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E9163278E155E00ACCB48 /* classBooks.m */; };
+		BF8E9168278E168A00ACCB48 /* classChapter.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E9167278E168A00ACCB48 /* classChapter.m */; };
+		BF8E916C278E169A00ACCB48 /* classVerse.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E916B278E169A00ACCB48 /* classVerse.m */; };
+		BF8E9171278E18CC00ACCB48 /* classProcessing.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8E9170278E18CC00ACCB48 /* classProcessing.m */; };
+		BF8F052327918ACF00229CC7 /* frmVerbDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8F052127918ACF00229CC7 /* frmVerbDetails.m */; };
+		BF8F052427918ACF00229CC7 /* frmVerbDetails.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF8F052227918ACF00229CC7 /* frmVerbDetails.xib */; };
+		BF924F6F278ED79D00799B8D /* GreekUsage.bmp in Resources */ = {isa = PBXBuildFile; fileRef = BF924F6D278ED79C00799B8D /* GreekUsage.bmp */; };
+		BF924F70278ED79D00799B8D /* GreekUsage.ico in Resources */ = {isa = PBXBuildFile; fileRef = BF924F6E278ED79D00799B8D /* GreekUsage.ico */; };
+		BF924F74278ED7AB00799B8D /* NTTitles.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F72278ED7AB00799B8D /* NTTitles.txt */; };
+		BF924F75278ED7AB00799B8D /* LXX_Titles.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F73278ED7AB00799B8D /* LXX_Titles.txt */; };
+		BF924F7A278EE38A00799B8D /* Majiscules.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F78278EE38A00799B8D /* Majiscules.txt */; };
+		BF924F7B278EE38A00799B8D /* Miniscules.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F79278EE38A00799B8D /* Miniscules.txt */; };
+		BF924F82278EF4AD00799B8D /* accentedChars.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F81278EF4AD00799B8D /* accentedChars.txt */; };
+		BF924F86278EF7FF00799B8D /* highGraves.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F84278EF7FF00799B8D /* highGraves.txt */; };
+		BF924F87278EF7FF00799B8D /* lowGraves.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F85278EF7FF00799B8D /* lowGraves.txt */; };
+		BF924F8A278EF92900799B8D /* accentsRemoved.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924F89278EF92900799B8D /* accentsRemoved.txt */; };
+		BF924F8F278EFAE500799B8D /* classRoot.m in Sources */ = {isa = PBXBuildFile; fileRef = BF924F8E278EFAE500799B8D /* classRoot.m */; };
+		BF924F94278EFBBF00799B8D /* classParseDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = BF924F93278EFBBF00799B8D /* classParseDetail.m */; };
+		BF924FA2278F2E4000799B8D /* allChars.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924FA0278F2E3F00799B8D /* allChars.txt */; };
+		BF924FAB278F30E400799B8D /* allSimplified.txt in Resources */ = {isa = PBXBuildFile; fileRef = BF924FAA278F30E400799B8D /* allSimplified.txt */; };
+		BF924FAF278F316900799B8D /* classFrequency.m in Sources */ = {isa = PBXBuildFile; fileRef = BF924FAE278F316900799B8D /* classFrequency.m */; };
+		BF951154279B052400A1F6B6 /* frmChapter.m in Sources */ = {isa = PBXBuildFile; fileRef = BF951152279B052400A1F6B6 /* frmChapter.m */; };
+		BF951155279B052400A1F6B6 /* frmChapter.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF951153279B052400A1F6B6 /* frmChapter.xib */; };
+		BF990017279EA85F00E8AB79 /* frmProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = BF990015279EA85F00E8AB79 /* frmProgress.m */; };
+		BF990018279EA85F00E8AB79 /* frmProgress.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF990016279EA85F00E8AB79 /* frmProgress.xib */; };
+		BF990028279EB4E500E8AB79 /* email.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF99001C279EB4E500E8AB79 /* email.jpg */; };
+		BF990029279EB4E500E8AB79 /* 03_Selecting_l.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF99001D279EB4E500E8AB79 /* 03_Selecting_l.JPG */; };
+		BF99002A279EB4E500E8AB79 /* 08_Aorist_Active_and_Middle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF99001E279EB4E500E8AB79 /* 08_Aorist_Active_and_Middle.jpg */; };
+		BF99002B279EB4E500E8AB79 /* Help.html in Resources */ = {isa = PBXBuildFile; fileRef = BF99001F279EB4E500E8AB79 /* Help.html */; };
+		BF99002C279EB4E500E8AB79 /* 05_The_verb_of_interest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF990020279EB4E500E8AB79 /* 05_The_verb_of_interest.jpg */; };
+		BF99002D279EB4E500E8AB79 /* 01_Main_Screen.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990021279EB4E500E8AB79 /* 01_Main_Screen.JPG */; };
+		BF99002E279EB4E500E8AB79 /* 02 A more useful verb.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990022279EB4E500E8AB79 /* 02 A more useful verb.JPG */; };
+		BF99002F279EB4E500E8AB79 /* 07_Details_With_More_Options.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BF990023279EB4E500E8AB79 /* 07_Details_With_More_Options.jpg */; };
+		BF990030279EB4E500E8AB79 /* 10_A_Chapter.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990024279EB4E500E8AB79 /* 10_A_Chapter.JPG */; };
+		BF990031279EB4E500E8AB79 /* 06_verb_example.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990025279EB4E500E8AB79 /* 06_verb_example.JPG */; };
+		BF990032279EB4E500E8AB79 /* 04_Selecting_lu.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990026279EB4E500E8AB79 /* 04_Selecting_lu.JPG */; };
+		BF990033279EB4E500E8AB79 /* 09_References.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BF990027279EB4E500E8AB79 /* 09_References.JPG */; };
+		BF990039279EB53E00E8AB79 /* frmHelp.m in Sources */ = {isa = PBXBuildFile; fileRef = BF990037279EB53E00E8AB79 /* frmHelp.m */; };
+		BF99003A279EB53E00E8AB79 /* frmHelp.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF990038279EB53E00E8AB79 /* frmHelp.xib */; };
+		BF99003E279EB56100E8AB79 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF99003D279EB56100E8AB79 /* WebKit.framework */; };
+		BF990045279EC63B00E8AB79 /* frmAbout.m in Sources */ = {isa = PBXBuildFile; fileRef = BF990043279EC63B00E8AB79 /* frmAbout.m */; };
+		BF990046279EC63B00E8AB79 /* frmAbout.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF990044279EC63B00E8AB79 /* frmAbout.xib */; };
+		BF990049279EC7EC00E8AB79 /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BF990048279EC7EC00E8AB79 /* AppIcon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BF82AAC827981F7800F6ECF6 /* 37_Micah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 37_Micah.txt; sourceTree = "<group>"; };
+		BF82AAC927981F7800F6ECF6 /* 56_DanielOG.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 56_DanielOG.txt; sourceTree = "<group>"; };
+		BF82AACA27981F7800F6ECF6 /* 04_Num.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 04_Num.txt; sourceTree = "<group>"; };
+		BF82AACB27981F7800F6ECF6 /* 28_Odes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 28_Odes.txt; sourceTree = "<group>"; };
+		BF82AACC27981F7800F6ECF6 /* 18_2Esdras.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 18_2Esdras.txt; sourceTree = "<group>"; };
+		BF82AACD27981F7800F6ECF6 /* 08_JudgesB.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 08_JudgesB.txt; sourceTree = "<group>"; };
+		BF82AACE27981F7800F6ECF6 /* 20_Judith.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 20_Judith.txt; sourceTree = "<group>"; };
+		BF82AACF27981F7800F6ECF6 /* 57_DanielTh.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 57_DanielTh.txt; sourceTree = "<group>"; };
+		BF82AAD027981F7800F6ECF6 /* 32_Job.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 32_Job.txt; sourceTree = "<group>"; };
+		BF82AAD127981F7800F6ECF6 /* 54_BelOG.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 54_BelOG.txt; sourceTree = "<group>"; };
+		BF82AAD227981F7800F6ECF6 /* 42_Nahum.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 42_Nahum.txt; sourceTree = "<group>"; };
+		BF82AAD327981F7800F6ECF6 /* 36_Hosea.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 36_Hosea.txt; sourceTree = "<group>"; };
+		BF82AAD427981F7800F6ECF6 /* 30_Qoheleth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 30_Qoheleth.txt; sourceTree = "<group>"; };
+		BF82AAD527981F7800F6ECF6 /* 33_Wisdom.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 33_Wisdom.txt; sourceTree = "<group>"; };
+		BF82AAD627981F7800F6ECF6 /* 15_1Chron.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 15_1Chron.txt; sourceTree = "<group>"; };
+		BF82AAD727981F7800F6ECF6 /* 10_Ruth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 10_Ruth.txt; sourceTree = "<group>"; };
+		BF82AAD827981F7800F6ECF6 /* 34_Sirach.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 34_Sirach.txt; sourceTree = "<group>"; };
+		BF82AAD927981F7800F6ECF6 /* 27_Psalms.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 27_Psalms.txt; sourceTree = "<group>"; };
+		BF82AADA27981F7800F6ECF6 /* 55_BelTh.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 55_BelTh.txt; sourceTree = "<group>"; };
+		BF82AADB27981F7800F6ECF6 /* 52_Lam.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 52_Lam.txt; sourceTree = "<group>"; };
+		BF82AADC27981F7800F6ECF6 /* 49_Jer.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 49_Jer.txt; sourceTree = "<group>"; };
+		BF82AADD27981F7800F6ECF6 /* 16_2Chron.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 16_2Chron.txt; sourceTree = "<group>"; };
+		BF82AADE27981F7800F6ECF6 /* 44_Zeph.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 44_Zeph.txt; sourceTree = "<group>"; };
+		BF82AADF27981F7800F6ECF6 /* 13_1Kings.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 13_1Kings.txt; sourceTree = "<group>"; };
+		BF82AAE027981F7800F6ECF6 /* 22_TobitS.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 22_TobitS.txt; sourceTree = "<group>"; };
+		BF82AAE127981F7800F6ECF6 /* 40_Jonah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 40_Jonah.txt; sourceTree = "<group>"; };
+		BF82AAE227981F7800F6ECF6 /* 06_JoshB.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 06_JoshB.txt; sourceTree = "<group>"; };
+		BF82AAE327981F7800F6ECF6 /* 17_1Esdras.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 17_1Esdras.txt; sourceTree = "<group>"; };
+		BF82AAE427981F7800F6ECF6 /* 23_1Macc.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 23_1Macc.txt; sourceTree = "<group>"; };
+		BF82AAE527981F7800F6ECF6 /* 59_SusTh.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 59_SusTh.txt; sourceTree = "<group>"; };
+		BF82AAE627981F7800F6ECF6 /* 48_Isaiah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 48_Isaiah.txt; sourceTree = "<group>"; };
+		BF82AAE727981F7800F6ECF6 /* 26_4Macc.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 26_4Macc.txt; sourceTree = "<group>"; };
+		BF82AAE827981F7800F6ECF6 /* 46_Zech.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 46_Zech.txt; sourceTree = "<group>"; };
+		BF82AAE927981F7800F6ECF6 /* 47_Malachi.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 47_Malachi.txt; sourceTree = "<group>"; };
+		BF82AAEA27981F7800F6ECF6 /* 41_Obadiah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 41_Obadiah.txt; sourceTree = "<group>"; };
+		BF82AAEB27981F7800F6ECF6 /* 45_Haggai.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 45_Haggai.txt; sourceTree = "<group>"; };
+		BF82AAEC27981F7800F6ECF6 /* 38_Amos.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 38_Amos.txt; sourceTree = "<group>"; };
+		BF82AAED27981F7800F6ECF6 /* 51_EpJer.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 51_EpJer.txt; sourceTree = "<group>"; };
+		BF82AAEE27981F7800F6ECF6 /* 43_Habakkuk.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 43_Habakkuk.txt; sourceTree = "<group>"; };
+		BF82AAEF27981F7800F6ECF6 /* 09_JudgesA.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 09_JudgesA.txt; sourceTree = "<group>"; };
+		BF82AAF027981F7800F6ECF6 /* 14_2Kings.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 14_2Kings.txt; sourceTree = "<group>"; };
+		BF82AAF127981F7800F6ECF6 /* 53_Ezek.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 53_Ezek.txt; sourceTree = "<group>"; };
+		BF82AAF227981F7800F6ECF6 /* 24_2Macc.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 24_2Macc.txt; sourceTree = "<group>"; };
+		BF82AAF327981F7800F6ECF6 /* 31_Canticles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 31_Canticles.txt; sourceTree = "<group>"; };
+		BF82AAF427981F7800F6ECF6 /* 11_1Sam.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 11_1Sam.txt; sourceTree = "<group>"; };
+		BF82AAF527981F7800F6ECF6 /* 25_3Macc.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 25_3Macc.txt; sourceTree = "<group>"; };
+		BF82AAF627981F7800F6ECF6 /* 19_Esther.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 19_Esther.txt; sourceTree = "<group>"; };
+		BF82AAF727981F7800F6ECF6 /* 03_Lev.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 03_Lev.txt; sourceTree = "<group>"; };
+		BF82AAF827981F7800F6ECF6 /* 07_JoshA.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 07_JoshA.txt; sourceTree = "<group>"; };
+		BF82AAF927981F7800F6ECF6 /* 01_Gen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 01_Gen.txt; sourceTree = "<group>"; };
+		BF82AAFA27981F7800F6ECF6 /* 12_2Sam.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 12_2Sam.txt; sourceTree = "<group>"; };
+		BF82AAFB27981F7800F6ECF6 /* 39_Joel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 39_Joel.txt; sourceTree = "<group>"; };
+		BF82AAFC27981F7800F6ECF6 /* 02_Exod.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 02_Exod.txt; sourceTree = "<group>"; };
+		BF82AAFD27981F7800F6ECF6 /* 58_SusOG.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 58_SusOG.txt; sourceTree = "<group>"; };
+		BF82AAFE27981F7800F6ECF6 /* 29_Proverbs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 29_Proverbs.txt; sourceTree = "<group>"; };
+		BF82AAFF27981F7800F6ECF6 /* 50_Baruch.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 50_Baruch.txt; sourceTree = "<group>"; };
+		BF82AB0027981F7800F6ECF6 /* 21_TobitBA.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 21_TobitBA.txt; sourceTree = "<group>"; };
+		BF82AB0127981F7800F6ECF6 /* 05_Deut.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 05_Deut.txt; sourceTree = "<group>"; };
+		BF82AB0227981F7800F6ECF6 /* 35_PsSol.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 35_PsSol.txt; sourceTree = "<group>"; };
+		BF82AB0427981F7800F6ECF6 /* 87-Re-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "87-Re-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0527981F7800F6ECF6 /* 76-2Ti-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "76-2Ti-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0627981F7800F6ECF6 /* 73-1Th-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "73-1Th-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0727981F7800F6ECF6 /* 72-Col-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "72-Col-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0827981F7800F6ECF6 /* 77-Tit-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "77-Tit-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0927981F7800F6ECF6 /* 83-1Jn-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "83-1Jn-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0A27981F7800F6ECF6 /* 70-Eph-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "70-Eph-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0B27981F7800F6ECF6 /* 62-Mk-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "62-Mk-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0C27981F7800F6ECF6 /* 65-Ac-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "65-Ac-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0D27981F7800F6ECF6 /* 80-Jas-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "80-Jas-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0E27981F7800F6ECF6 /* 81-1Pe-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "81-1Pe-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB0F27981F7800F6ECF6 /* 66-Ro-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "66-Ro-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1027981F7800F6ECF6 /* 78-Phm-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "78-Phm-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1127981F7800F6ECF6 /* 75-1Ti-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "75-1Ti-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1227981F7800F6ECF6 /* 84-2Jn-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "84-2Jn-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1327981F7800F6ECF6 /* 68-2Co-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "68-2Co-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1427981F7800F6ECF6 /* 86-Jud-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "86-Jud-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1527981F7800F6ECF6 /* 79-Heb-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "79-Heb-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1627981F7800F6ECF6 /* 74-2Th-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "74-2Th-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1727981F7800F6ECF6 /* 64-Jn-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "64-Jn-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1827981F7800F6ECF6 /* 67-1Co-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "67-1Co-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1927981F7800F6ECF6 /* 69-Ga-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "69-Ga-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1A27981F7800F6ECF6 /* 63-Lk-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "63-Lk-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1B27981F7800F6ECF6 /* 85-3Jn-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "85-3Jn-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1C27981F7800F6ECF6 /* 82-2Pe-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "82-2Pe-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1D27981F7800F6ECF6 /* 71-Php-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "71-Php-morphgnt.txt"; sourceTree = "<group>"; };
+		BF82AB1E27981F7800F6ECF6 /* 61-Mt-morphgnt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "61-Mt-morphgnt.txt"; sourceTree = "<group>"; };
+		BF87D48E2799AAF200E18FAB /* classReference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classReference.h; sourceTree = "<group>"; };
+		BF87D48F2799AAF200E18FAB /* classReference.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classReference.m; sourceTree = "<group>"; };
+		BF87D4922799BB5900E18FAB /* frmReferences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmReferences.h; sourceTree = "<group>"; };
+		BF87D4932799BB5900E18FAB /* frmReferences.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmReferences.m; sourceTree = "<group>"; };
+		BF87D4942799BB5900E18FAB /* frmReferences.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmReferences.xib; sourceTree = "<group>"; };
+		BF8E914C278E127A00ACCB48 /* NTPrincipalParts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NTPrincipalParts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF8E914F278E127A00ACCB48 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BF8E9150278E127A00ACCB48 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BF8E9152278E128400ACCB48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BF8E9155278E128400ACCB48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		BF8E9157278E128400ACCB48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF8E9158278E128400ACCB48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BF8E915A278E128400ACCB48 /* NTPrincipalParts.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NTPrincipalParts.entitlements; sourceTree = "<group>"; };
+		BF8E9162278E155E00ACCB48 /* classBooks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classBooks.h; sourceTree = "<group>"; };
+		BF8E9163278E155E00ACCB48 /* classBooks.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classBooks.m; sourceTree = "<group>"; };
+		BF8E9166278E168A00ACCB48 /* classChapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classChapter.h; sourceTree = "<group>"; };
+		BF8E9167278E168A00ACCB48 /* classChapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classChapter.m; sourceTree = "<group>"; };
+		BF8E916A278E169A00ACCB48 /* classVerse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classVerse.h; sourceTree = "<group>"; };
+		BF8E916B278E169A00ACCB48 /* classVerse.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classVerse.m; sourceTree = "<group>"; };
+		BF8E916F278E18CC00ACCB48 /* classProcessing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classProcessing.h; sourceTree = "<group>"; };
+		BF8E9170278E18CC00ACCB48 /* classProcessing.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classProcessing.m; sourceTree = "<group>"; };
+		BF8F052027918ACF00229CC7 /* frmVerbDetails.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmVerbDetails.h; sourceTree = "<group>"; };
+		BF8F052127918ACF00229CC7 /* frmVerbDetails.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmVerbDetails.m; sourceTree = "<group>"; };
+		BF8F052227918ACF00229CC7 /* frmVerbDetails.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmVerbDetails.xib; sourceTree = "<group>"; };
+		BF924F6D278ED79C00799B8D /* GreekUsage.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = GreekUsage.bmp; sourceTree = "<group>"; };
+		BF924F6E278ED79D00799B8D /* GreekUsage.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = GreekUsage.ico; sourceTree = "<group>"; };
+		BF924F72278ED7AB00799B8D /* NTTitles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NTTitles.txt; sourceTree = "<group>"; };
+		BF924F73278ED7AB00799B8D /* LXX_Titles.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LXX_Titles.txt; sourceTree = "<group>"; };
+		BF924F78278EE38A00799B8D /* Majiscules.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Majiscules.txt; sourceTree = "<group>"; };
+		BF924F79278EE38A00799B8D /* Miniscules.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Miniscules.txt; sourceTree = "<group>"; };
+		BF924F81278EF4AD00799B8D /* accentedChars.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = accentedChars.txt; path = ../../../../GreekCharacterSets/accentedChars.txt; sourceTree = "<group>"; };
+		BF924F84278EF7FF00799B8D /* highGraves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = highGraves.txt; sourceTree = "<group>"; };
+		BF924F85278EF7FF00799B8D /* lowGraves.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = lowGraves.txt; sourceTree = "<group>"; };
+		BF924F89278EF92900799B8D /* accentsRemoved.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = accentsRemoved.txt; sourceTree = "<group>"; };
+		BF924F8D278EFAE500799B8D /* classRoot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classRoot.h; sourceTree = "<group>"; };
+		BF924F8E278EFAE500799B8D /* classRoot.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classRoot.m; sourceTree = "<group>"; };
+		BF924F92278EFBBF00799B8D /* classParseDetail.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classParseDetail.h; sourceTree = "<group>"; };
+		BF924F93278EFBBF00799B8D /* classParseDetail.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classParseDetail.m; sourceTree = "<group>"; };
+		BF924FA0278F2E3F00799B8D /* allChars.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = allChars.txt; path = ../../../../GreekCharacterSets/allChars.txt; sourceTree = "<group>"; };
+		BF924FAA278F30E400799B8D /* allSimplified.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = allSimplified.txt; path = ../../../../GreekCharacterSets/allSimplified.txt; sourceTree = "<group>"; };
+		BF924FAD278F316900799B8D /* classFrequency.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classFrequency.h; sourceTree = "<group>"; };
+		BF924FAE278F316900799B8D /* classFrequency.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classFrequency.m; sourceTree = "<group>"; };
+		BF951151279B052400A1F6B6 /* frmChapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmChapter.h; sourceTree = "<group>"; };
+		BF951152279B052400A1F6B6 /* frmChapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmChapter.m; sourceTree = "<group>"; };
+		BF951153279B052400A1F6B6 /* frmChapter.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmChapter.xib; sourceTree = "<group>"; };
+		BF990014279EA85F00E8AB79 /* frmProgress.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmProgress.h; sourceTree = "<group>"; };
+		BF990015279EA85F00E8AB79 /* frmProgress.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmProgress.m; sourceTree = "<group>"; };
+		BF990016279EA85F00E8AB79 /* frmProgress.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmProgress.xib; sourceTree = "<group>"; };
+		BF99001C279EB4E500E8AB79 /* email.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = email.jpg; sourceTree = "<group>"; };
+		BF99001D279EB4E500E8AB79 /* 03_Selecting_l.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 03_Selecting_l.JPG; sourceTree = "<group>"; };
+		BF99001E279EB4E500E8AB79 /* 08_Aorist_Active_and_Middle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 08_Aorist_Active_and_Middle.jpg; sourceTree = "<group>"; };
+		BF99001F279EB4E500E8AB79 /* Help.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Help.html; sourceTree = "<group>"; };
+		BF990020279EB4E500E8AB79 /* 05_The_verb_of_interest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 05_The_verb_of_interest.jpg; sourceTree = "<group>"; };
+		BF990021279EB4E500E8AB79 /* 01_Main_Screen.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 01_Main_Screen.JPG; sourceTree = "<group>"; };
+		BF990022279EB4E500E8AB79 /* 02 A more useful verb.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "02 A more useful verb.JPG"; sourceTree = "<group>"; };
+		BF990023279EB4E500E8AB79 /* 07_Details_With_More_Options.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 07_Details_With_More_Options.jpg; sourceTree = "<group>"; };
+		BF990024279EB4E500E8AB79 /* 10_A_Chapter.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10_A_Chapter.JPG; sourceTree = "<group>"; };
+		BF990025279EB4E500E8AB79 /* 06_verb_example.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 06_verb_example.JPG; sourceTree = "<group>"; };
+		BF990026279EB4E500E8AB79 /* 04_Selecting_lu.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 04_Selecting_lu.JPG; sourceTree = "<group>"; };
+		BF990027279EB4E500E8AB79 /* 09_References.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 09_References.JPG; sourceTree = "<group>"; };
+		BF990036279EB53E00E8AB79 /* frmHelp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmHelp.h; sourceTree = "<group>"; };
+		BF990037279EB53E00E8AB79 /* frmHelp.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmHelp.m; sourceTree = "<group>"; };
+		BF990038279EB53E00E8AB79 /* frmHelp.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmHelp.xib; sourceTree = "<group>"; };
+		BF99003D279EB56100E8AB79 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		BF990042279EC63B00E8AB79 /* frmAbout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = frmAbout.h; sourceTree = "<group>"; };
+		BF990043279EC63B00E8AB79 /* frmAbout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = frmAbout.m; sourceTree = "<group>"; };
+		BF990044279EC63B00E8AB79 /* frmAbout.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = frmAbout.xib; sourceTree = "<group>"; };
+		BF990048279EC7EC00E8AB79 /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BF8E9149278E127A00ACCB48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF99003E279EB56100E8AB79 /* WebKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BF82AAC727981F7800F6ECF6 /* LXX_Text */ = {
+			isa = PBXGroup;
+			children = (
+				BF82AAC827981F7800F6ECF6 /* 37_Micah.txt */,
+				BF82AAC927981F7800F6ECF6 /* 56_DanielOG.txt */,
+				BF82AACA27981F7800F6ECF6 /* 04_Num.txt */,
+				BF82AACB27981F7800F6ECF6 /* 28_Odes.txt */,
+				BF82AACC27981F7800F6ECF6 /* 18_2Esdras.txt */,
+				BF82AACD27981F7800F6ECF6 /* 08_JudgesB.txt */,
+				BF82AACE27981F7800F6ECF6 /* 20_Judith.txt */,
+				BF82AACF27981F7800F6ECF6 /* 57_DanielTh.txt */,
+				BF82AAD027981F7800F6ECF6 /* 32_Job.txt */,
+				BF82AAD127981F7800F6ECF6 /* 54_BelOG.txt */,
+				BF82AAD227981F7800F6ECF6 /* 42_Nahum.txt */,
+				BF82AAD327981F7800F6ECF6 /* 36_Hosea.txt */,
+				BF82AAD427981F7800F6ECF6 /* 30_Qoheleth.txt */,
+				BF82AAD527981F7800F6ECF6 /* 33_Wisdom.txt */,
+				BF82AAD627981F7800F6ECF6 /* 15_1Chron.txt */,
+				BF82AAD727981F7800F6ECF6 /* 10_Ruth.txt */,
+				BF82AAD827981F7800F6ECF6 /* 34_Sirach.txt */,
+				BF82AAD927981F7800F6ECF6 /* 27_Psalms.txt */,
+				BF82AADA27981F7800F6ECF6 /* 55_BelTh.txt */,
+				BF82AADB27981F7800F6ECF6 /* 52_Lam.txt */,
+				BF82AADC27981F7800F6ECF6 /* 49_Jer.txt */,
+				BF82AADD27981F7800F6ECF6 /* 16_2Chron.txt */,
+				BF82AADE27981F7800F6ECF6 /* 44_Zeph.txt */,
+				BF82AADF27981F7800F6ECF6 /* 13_1Kings.txt */,
+				BF82AAE027981F7800F6ECF6 /* 22_TobitS.txt */,
+				BF82AAE127981F7800F6ECF6 /* 40_Jonah.txt */,
+				BF82AAE227981F7800F6ECF6 /* 06_JoshB.txt */,
+				BF82AAE327981F7800F6ECF6 /* 17_1Esdras.txt */,
+				BF82AAE427981F7800F6ECF6 /* 23_1Macc.txt */,
+				BF82AAE527981F7800F6ECF6 /* 59_SusTh.txt */,
+				BF82AAE627981F7800F6ECF6 /* 48_Isaiah.txt */,
+				BF82AAE727981F7800F6ECF6 /* 26_4Macc.txt */,
+				BF82AAE827981F7800F6ECF6 /* 46_Zech.txt */,
+				BF82AAE927981F7800F6ECF6 /* 47_Malachi.txt */,
+				BF82AAEA27981F7800F6ECF6 /* 41_Obadiah.txt */,
+				BF82AAEB27981F7800F6ECF6 /* 45_Haggai.txt */,
+				BF82AAEC27981F7800F6ECF6 /* 38_Amos.txt */,
+				BF82AAED27981F7800F6ECF6 /* 51_EpJer.txt */,
+				BF82AAEE27981F7800F6ECF6 /* 43_Habakkuk.txt */,
+				BF82AAEF27981F7800F6ECF6 /* 09_JudgesA.txt */,
+				BF82AAF027981F7800F6ECF6 /* 14_2Kings.txt */,
+				BF82AAF127981F7800F6ECF6 /* 53_Ezek.txt */,
+				BF82AAF227981F7800F6ECF6 /* 24_2Macc.txt */,
+				BF82AAF327981F7800F6ECF6 /* 31_Canticles.txt */,
+				BF82AAF427981F7800F6ECF6 /* 11_1Sam.txt */,
+				BF82AAF527981F7800F6ECF6 /* 25_3Macc.txt */,
+				BF82AAF627981F7800F6ECF6 /* 19_Esther.txt */,
+				BF82AAF727981F7800F6ECF6 /* 03_Lev.txt */,
+				BF82AAF827981F7800F6ECF6 /* 07_JoshA.txt */,
+				BF82AAF927981F7800F6ECF6 /* 01_Gen.txt */,
+				BF82AAFA27981F7800F6ECF6 /* 12_2Sam.txt */,
+				BF82AAFB27981F7800F6ECF6 /* 39_Joel.txt */,
+				BF82AAFC27981F7800F6ECF6 /* 02_Exod.txt */,
+				BF82AAFD27981F7800F6ECF6 /* 58_SusOG.txt */,
+				BF82AAFE27981F7800F6ECF6 /* 29_Proverbs.txt */,
+				BF82AAFF27981F7800F6ECF6 /* 50_Baruch.txt */,
+				BF82AB0027981F7800F6ECF6 /* 21_TobitBA.txt */,
+				BF82AB0127981F7800F6ECF6 /* 05_Deut.txt */,
+				BF82AB0227981F7800F6ECF6 /* 35_PsSol.txt */,
+			);
+			name = LXX_Text;
+			path = Source/LXX_Text;
+			sourceTree = SOURCE_ROOT;
+		};
+		BF82AB0327981F7800F6ECF6 /* NTText */ = {
+			isa = PBXGroup;
+			children = (
+				BF82AB0427981F7800F6ECF6 /* 87-Re-morphgnt.txt */,
+				BF82AB0527981F7800F6ECF6 /* 76-2Ti-morphgnt.txt */,
+				BF82AB0627981F7800F6ECF6 /* 73-1Th-morphgnt.txt */,
+				BF82AB0727981F7800F6ECF6 /* 72-Col-morphgnt.txt */,
+				BF82AB0827981F7800F6ECF6 /* 77-Tit-morphgnt.txt */,
+				BF82AB0927981F7800F6ECF6 /* 83-1Jn-morphgnt.txt */,
+				BF82AB0A27981F7800F6ECF6 /* 70-Eph-morphgnt.txt */,
+				BF82AB0B27981F7800F6ECF6 /* 62-Mk-morphgnt.txt */,
+				BF82AB0C27981F7800F6ECF6 /* 65-Ac-morphgnt.txt */,
+				BF82AB0D27981F7800F6ECF6 /* 80-Jas-morphgnt.txt */,
+				BF82AB0E27981F7800F6ECF6 /* 81-1Pe-morphgnt.txt */,
+				BF82AB0F27981F7800F6ECF6 /* 66-Ro-morphgnt.txt */,
+				BF82AB1027981F7800F6ECF6 /* 78-Phm-morphgnt.txt */,
+				BF82AB1127981F7800F6ECF6 /* 75-1Ti-morphgnt.txt */,
+				BF82AB1227981F7800F6ECF6 /* 84-2Jn-morphgnt.txt */,
+				BF82AB1327981F7800F6ECF6 /* 68-2Co-morphgnt.txt */,
+				BF82AB1427981F7800F6ECF6 /* 86-Jud-morphgnt.txt */,
+				BF82AB1527981F7800F6ECF6 /* 79-Heb-morphgnt.txt */,
+				BF82AB1627981F7800F6ECF6 /* 74-2Th-morphgnt.txt */,
+				BF82AB1727981F7800F6ECF6 /* 64-Jn-morphgnt.txt */,
+				BF82AB1827981F7800F6ECF6 /* 67-1Co-morphgnt.txt */,
+				BF82AB1927981F7800F6ECF6 /* 69-Ga-morphgnt.txt */,
+				BF82AB1A27981F7800F6ECF6 /* 63-Lk-morphgnt.txt */,
+				BF82AB1B27981F7800F6ECF6 /* 85-3Jn-morphgnt.txt */,
+				BF82AB1C27981F7800F6ECF6 /* 82-2Pe-morphgnt.txt */,
+				BF82AB1D27981F7800F6ECF6 /* 71-Php-morphgnt.txt */,
+				BF82AB1E27981F7800F6ECF6 /* 61-Mt-morphgnt.txt */,
+			);
+			name = NTText;
+			path = Source/NTText;
+			sourceTree = SOURCE_ROOT;
+		};
+		BF87D48D2799AAD300E18FAB /* References */ = {
+			isa = PBXGroup;
+			children = (
+				BF87D48E2799AAF200E18FAB /* classReference.h */,
+				BF87D48F2799AAF200E18FAB /* classReference.m */,
+				BF87D4922799BB5900E18FAB /* frmReferences.h */,
+				BF87D4932799BB5900E18FAB /* frmReferences.m */,
+				BF87D4942799BB5900E18FAB /* frmReferences.xib */,
+			);
+			path = References;
+			sourceTree = "<group>";
+		};
+		BF8E9143278E127A00ACCB48 = {
+			isa = PBXGroup;
+			children = (
+				BF924EBC278ED71500799B8D /* Source */,
+				BF8E914E278E127A00ACCB48 /* NTPrincipalParts */,
+				BF8E914D278E127A00ACCB48 /* Products */,
+				BF99003C279EB56000E8AB79 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		BF8E914D278E127A00ACCB48 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BF8E914C278E127A00ACCB48 /* NTPrincipalParts.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BF8E914E278E127A00ACCB48 /* NTPrincipalParts */ = {
+			isa = PBXGroup;
+			children = (
+				BF990041279EC62900E8AB79 /* About */,
+				BF990035279EB52800E8AB79 /* Help */,
+				BF990013279EA84200E8AB79 /* Progress */,
+				BF951150279B04F700A1F6B6 /* Display */,
+				BF87D48D2799AAD300E18FAB /* References */,
+				BF8E916E278E189F00ACCB48 /* ControllingMethods */,
+				BF924F91278EFB9100799B8D /* GranularStorage */,
+				BF924F8C278EFACB00799B8D /* Root */,
+				BF8E9161278E154400ACCB48 /* Text */,
+				BF8E914F278E127A00ACCB48 /* AppDelegate.h */,
+				BF8E9150278E127A00ACCB48 /* AppDelegate.m */,
+				BF8E9152278E128400ACCB48 /* Assets.xcassets */,
+				BF8E9154278E128400ACCB48 /* MainMenu.xib */,
+				BF8E9157278E128400ACCB48 /* Info.plist */,
+				BF8E9158278E128400ACCB48 /* main.m */,
+				BF8E915A278E128400ACCB48 /* NTPrincipalParts.entitlements */,
+			);
+			path = NTPrincipalParts;
+			sourceTree = "<group>";
+		};
+		BF8E9161278E154400ACCB48 /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				BF8E9162278E155E00ACCB48 /* classBooks.h */,
+				BF8E9163278E155E00ACCB48 /* classBooks.m */,
+				BF8E9166278E168A00ACCB48 /* classChapter.h */,
+				BF8E9167278E168A00ACCB48 /* classChapter.m */,
+				BF8E916A278E169A00ACCB48 /* classVerse.h */,
+				BF8E916B278E169A00ACCB48 /* classVerse.m */,
+			);
+			path = Text;
+			sourceTree = "<group>";
+		};
+		BF8E916E278E189F00ACCB48 /* ControllingMethods */ = {
+			isa = PBXGroup;
+			children = (
+				BF8E916F278E18CC00ACCB48 /* classProcessing.h */,
+				BF8E9170278E18CC00ACCB48 /* classProcessing.m */,
+			);
+			path = ControllingMethods;
+			sourceTree = "<group>";
+		};
+		BF924EBC278ED71500799B8D /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				BF99001B279EB4E500E8AB79 /* Help */,
+				BF924F77278EE37800799B8D /* Greek */,
+				BF924F73278ED7AB00799B8D /* LXX_Titles.txt */,
+				BF924F72278ED7AB00799B8D /* NTTitles.txt */,
+				BF924F6D278ED79C00799B8D /* GreekUsage.bmp */,
+				BF924F6E278ED79D00799B8D /* GreekUsage.ico */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		BF924F77278EE37800799B8D /* Greek */ = {
+			isa = PBXGroup;
+			children = (
+				BF990048279EC7EC00E8AB79 /* AppIcon.png */,
+				BF82AAC727981F7800F6ECF6 /* LXX_Text */,
+				BF82AB0327981F7800F6ECF6 /* NTText */,
+				BF924FA0278F2E3F00799B8D /* allChars.txt */,
+				BF924FAA278F30E400799B8D /* allSimplified.txt */,
+				BF924F84278EF7FF00799B8D /* highGraves.txt */,
+				BF924F85278EF7FF00799B8D /* lowGraves.txt */,
+				BF924F89278EF92900799B8D /* accentsRemoved.txt */,
+				BF924F81278EF4AD00799B8D /* accentedChars.txt */,
+				BF924F78278EE38A00799B8D /* Majiscules.txt */,
+				BF924F79278EE38A00799B8D /* Miniscules.txt */,
+			);
+			path = Greek;
+			sourceTree = "<group>";
+		};
+		BF924F8C278EFACB00799B8D /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				BF924F8D278EFAE500799B8D /* classRoot.h */,
+				BF924F8E278EFAE500799B8D /* classRoot.m */,
+				BF924FAD278F316900799B8D /* classFrequency.h */,
+				BF924FAE278F316900799B8D /* classFrequency.m */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		BF924F91278EFB9100799B8D /* GranularStorage */ = {
+			isa = PBXGroup;
+			children = (
+				BF924F92278EFBBF00799B8D /* classParseDetail.h */,
+				BF924F93278EFBBF00799B8D /* classParseDetail.m */,
+				BF8F052027918ACF00229CC7 /* frmVerbDetails.h */,
+				BF8F052127918ACF00229CC7 /* frmVerbDetails.m */,
+				BF8F052227918ACF00229CC7 /* frmVerbDetails.xib */,
+			);
+			path = GranularStorage;
+			sourceTree = "<group>";
+		};
+		BF951150279B04F700A1F6B6 /* Display */ = {
+			isa = PBXGroup;
+			children = (
+				BF951151279B052400A1F6B6 /* frmChapter.h */,
+				BF951152279B052400A1F6B6 /* frmChapter.m */,
+				BF951153279B052400A1F6B6 /* frmChapter.xib */,
+			);
+			path = Display;
+			sourceTree = "<group>";
+		};
+		BF990013279EA84200E8AB79 /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				BF990014279EA85F00E8AB79 /* frmProgress.h */,
+				BF990015279EA85F00E8AB79 /* frmProgress.m */,
+				BF990016279EA85F00E8AB79 /* frmProgress.xib */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		BF99001B279EB4E500E8AB79 /* Help */ = {
+			isa = PBXGroup;
+			children = (
+				BF99001C279EB4E500E8AB79 /* email.jpg */,
+				BF99001D279EB4E500E8AB79 /* 03_Selecting_l.JPG */,
+				BF99001E279EB4E500E8AB79 /* 08_Aorist_Active_and_Middle.jpg */,
+				BF99001F279EB4E500E8AB79 /* Help.html */,
+				BF990020279EB4E500E8AB79 /* 05_The_verb_of_interest.jpg */,
+				BF990021279EB4E500E8AB79 /* 01_Main_Screen.JPG */,
+				BF990022279EB4E500E8AB79 /* 02 A more useful verb.JPG */,
+				BF990023279EB4E500E8AB79 /* 07_Details_With_More_Options.jpg */,
+				BF990024279EB4E500E8AB79 /* 10_A_Chapter.JPG */,
+				BF990025279EB4E500E8AB79 /* 06_verb_example.JPG */,
+				BF990026279EB4E500E8AB79 /* 04_Selecting_lu.JPG */,
+				BF990027279EB4E500E8AB79 /* 09_References.JPG */,
+			);
+			path = Help;
+			sourceTree = "<group>";
+		};
+		BF990035279EB52800E8AB79 /* Help */ = {
+			isa = PBXGroup;
+			children = (
+				BF990036279EB53E00E8AB79 /* frmHelp.h */,
+				BF990037279EB53E00E8AB79 /* frmHelp.m */,
+				BF990038279EB53E00E8AB79 /* frmHelp.xib */,
+			);
+			path = Help;
+			sourceTree = "<group>";
+		};
+		BF99003C279EB56000E8AB79 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BF99003D279EB56100E8AB79 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF990041279EC62900E8AB79 /* About */ = {
+			isa = PBXGroup;
+			children = (
+				BF990042279EC63B00E8AB79 /* frmAbout.h */,
+				BF990043279EC63B00E8AB79 /* frmAbout.m */,
+				BF990044279EC63B00E8AB79 /* frmAbout.xib */,
+			);
+			path = About;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BF8E914B278E127A00ACCB48 /* NTPrincipalParts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF8E915D278E128400ACCB48 /* Build configuration list for PBXNativeTarget "NTPrincipalParts" */;
+			buildPhases = (
+				BF8E9148278E127A00ACCB48 /* Sources */,
+				BF8E9149278E127A00ACCB48 /* Frameworks */,
+				BF8E914A278E127A00ACCB48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NTPrincipalParts;
+			productName = NTPrincipalParts;
+			productReference = BF8E914C278E127A00ACCB48 /* NTPrincipalParts.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BF8E9144278E127A00ACCB48 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					BF8E914B278E127A00ACCB48 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+				};
+			};
+			buildConfigurationList = BF8E9147278E127A00ACCB48 /* Build configuration list for PBXProject "NTPrincipalParts" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BF8E9143278E127A00ACCB48;
+			productRefGroup = BF8E914D278E127A00ACCB48 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF8E914B278E127A00ACCB48 /* NTPrincipalParts */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BF8E914A278E127A00ACCB48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF82AB3627981F7800F6ECF6 /* 13_1Kings.txt in Resources */,
+				BF82AB2A27981F7800F6ECF6 /* 36_Hosea.txt in Resources */,
+				BF82AB5B27981F7800F6ECF6 /* 76-2Ti-morphgnt.txt in Resources */,
+				BF82AB3227981F7800F6ECF6 /* 52_Lam.txt in Resources */,
+				BF82AB4527981F7800F6ECF6 /* 43_Habakkuk.txt in Resources */,
+				BF82AB2927981F7800F6ECF6 /* 42_Nahum.txt in Resources */,
+				BF82AB4927981F7800F6ECF6 /* 24_2Macc.txt in Resources */,
+				BF82AB2227981F7800F6ECF6 /* 28_Odes.txt in Resources */,
+				BF82AB4E27981F7800F6ECF6 /* 03_Lev.txt in Resources */,
+				BF82AB6D27981F7800F6ECF6 /* 64-Jn-morphgnt.txt in Resources */,
+				BF82AB5D27981F7800F6ECF6 /* 72-Col-morphgnt.txt in Resources */,
+				BF924F86278EF7FF00799B8D /* highGraves.txt in Resources */,
+				BF82AB3C27981F7800F6ECF6 /* 59_SusTh.txt in Resources */,
+				BF82AB4327981F7800F6ECF6 /* 38_Amos.txt in Resources */,
+				BF82AB3327981F7800F6ECF6 /* 49_Jer.txt in Resources */,
+				BF82AB2C27981F7800F6ECF6 /* 33_Wisdom.txt in Resources */,
+				BF82AB5027981F7800F6ECF6 /* 01_Gen.txt in Resources */,
+				BF8E9153278E128400ACCB48 /* Assets.xcassets in Resources */,
+				BF990029279EB4E500E8AB79 /* 03_Selecting_l.JPG in Resources */,
+				BF924F7B278EE38A00799B8D /* Miniscules.txt in Resources */,
+				BF82AB5527981F7800F6ECF6 /* 29_Proverbs.txt in Resources */,
+				BF99002D279EB4E500E8AB79 /* 01_Main_Screen.JPG in Resources */,
+				BF82AB2D27981F7800F6ECF6 /* 15_1Chron.txt in Resources */,
+				BF82AB3727981F7800F6ECF6 /* 22_TobitS.txt in Resources */,
+				BF82AB6127981F7800F6ECF6 /* 62-Mk-morphgnt.txt in Resources */,
+				BF82AB4A27981F7800F6ECF6 /* 31_Canticles.txt in Resources */,
+				BF82AB4227981F7800F6ECF6 /* 45_Haggai.txt in Resources */,
+				BF87D4962799BB5900E18FAB /* frmReferences.xib in Resources */,
+				BF82AB2E27981F7800F6ECF6 /* 10_Ruth.txt in Resources */,
+				BF82AB3A27981F7800F6ECF6 /* 17_1Esdras.txt in Resources */,
+				BF82AB6827981F7800F6ECF6 /* 84-2Jn-morphgnt.txt in Resources */,
+				BF82AB5127981F7800F6ECF6 /* 12_2Sam.txt in Resources */,
+				BF82AB2327981F7800F6ECF6 /* 18_2Esdras.txt in Resources */,
+				BF990046279EC63B00E8AB79 /* frmAbout.xib in Resources */,
+				BF82AB5627981F7800F6ECF6 /* 50_Baruch.txt in Resources */,
+				BF82AB3827981F7800F6ECF6 /* 40_Jonah.txt in Resources */,
+				BF82AB6F27981F7800F6ECF6 /* 69-Ga-morphgnt.txt in Resources */,
+				BF82AB4827981F7800F6ECF6 /* 53_Ezek.txt in Resources */,
+				BF82AB6027981F7800F6ECF6 /* 70-Eph-morphgnt.txt in Resources */,
+				BF82AB6B27981F7800F6ECF6 /* 79-Heb-morphgnt.txt in Resources */,
+				BF82AB4627981F7800F6ECF6 /* 09_JudgesA.txt in Resources */,
+				BF924F75278ED7AB00799B8D /* LXX_Titles.txt in Resources */,
+				BF82AB4D27981F7800F6ECF6 /* 19_Esther.txt in Resources */,
+				BF82AB2027981F7800F6ECF6 /* 56_DanielOG.txt in Resources */,
+				BF99002C279EB4E500E8AB79 /* 05_The_verb_of_interest.jpg in Resources */,
+				BF82AB6327981F7800F6ECF6 /* 80-Jas-morphgnt.txt in Resources */,
+				BF82AB3927981F7800F6ECF6 /* 06_JoshB.txt in Resources */,
+				BF82AB2727981F7800F6ECF6 /* 32_Job.txt in Resources */,
+				BF82AB3027981F7800F6ECF6 /* 27_Psalms.txt in Resources */,
+				BF99002E279EB4E500E8AB79 /* 02 A more useful verb.JPG in Resources */,
+				BF990032279EB4E500E8AB79 /* 04_Selecting_lu.JPG in Resources */,
+				BF82AB3427981F7800F6ECF6 /* 16_2Chron.txt in Resources */,
+				BF82AB6E27981F7800F6ECF6 /* 67-1Co-morphgnt.txt in Resources */,
+				BF82AB2427981F7800F6ECF6 /* 08_JudgesB.txt in Resources */,
+				BF82AB2527981F7800F6ECF6 /* 20_Judith.txt in Resources */,
+				BF924F74278ED7AB00799B8D /* NTTitles.txt in Resources */,
+				BF82AB6227981F7800F6ECF6 /* 65-Ac-morphgnt.txt in Resources */,
+				BF82AB2827981F7800F6ECF6 /* 54_BelOG.txt in Resources */,
+				BF99003A279EB53E00E8AB79 /* frmHelp.xib in Resources */,
+				BF82AB4C27981F7800F6ECF6 /* 25_3Macc.txt in Resources */,
+				BF82AB3127981F7800F6ECF6 /* 55_BelTh.txt in Resources */,
+				BF82AB3F27981F7800F6ECF6 /* 46_Zech.txt in Resources */,
+				BF990030279EB4E500E8AB79 /* 10_A_Chapter.JPG in Resources */,
+				BF82AB1F27981F7800F6ECF6 /* 37_Micah.txt in Resources */,
+				BF82AB5F27981F7800F6ECF6 /* 83-1Jn-morphgnt.txt in Resources */,
+				BF82AB3527981F7800F6ECF6 /* 44_Zeph.txt in Resources */,
+				BF82AB6727981F7800F6ECF6 /* 75-1Ti-morphgnt.txt in Resources */,
+				BF99002A279EB4E500E8AB79 /* 08_Aorist_Active_and_Middle.jpg in Resources */,
+				BF82AB7227981F7800F6ECF6 /* 82-2Pe-morphgnt.txt in Resources */,
+				BF924F70278ED79D00799B8D /* GreekUsage.ico in Resources */,
+				BF82AB3E27981F7800F6ECF6 /* 26_4Macc.txt in Resources */,
+				BF924F7A278EE38A00799B8D /* Majiscules.txt in Resources */,
+				BF82AB5827981F7800F6ECF6 /* 05_Deut.txt in Resources */,
+				BF82AB3B27981F7800F6ECF6 /* 23_1Macc.txt in Resources */,
+				BF82AB3D27981F7800F6ECF6 /* 48_Isaiah.txt in Resources */,
+				BF82AB2B27981F7800F6ECF6 /* 30_Qoheleth.txt in Resources */,
+				BF990033279EB4E500E8AB79 /* 09_References.JPG in Resources */,
+				BF99002B279EB4E500E8AB79 /* Help.html in Resources */,
+				BF82AB6427981F7800F6ECF6 /* 81-1Pe-morphgnt.txt in Resources */,
+				BF82AB5227981F7800F6ECF6 /* 39_Joel.txt in Resources */,
+				BF82AB4B27981F7800F6ECF6 /* 11_1Sam.txt in Resources */,
+				BF82AB2127981F7800F6ECF6 /* 04_Num.txt in Resources */,
+				BF924FAB278F30E400799B8D /* allSimplified.txt in Resources */,
+				BF990049279EC7EC00E8AB79 /* AppIcon.png in Resources */,
+				BF990031279EB4E500E8AB79 /* 06_verb_example.JPG in Resources */,
+				BF82AB5C27981F7800F6ECF6 /* 73-1Th-morphgnt.txt in Resources */,
+				BF951155279B052400A1F6B6 /* frmChapter.xib in Resources */,
+				BF990018279EA85F00E8AB79 /* frmProgress.xib in Resources */,
+				BF82AB6A27981F7800F6ECF6 /* 86-Jud-morphgnt.txt in Resources */,
+				BF924FA2278F2E4000799B8D /* allChars.txt in Resources */,
+				BF82AB5A27981F7800F6ECF6 /* 87-Re-morphgnt.txt in Resources */,
+				BF82AB5327981F7800F6ECF6 /* 02_Exod.txt in Resources */,
+				BF82AB5927981F7800F6ECF6 /* 35_PsSol.txt in Resources */,
+				BF82AB5427981F7800F6ECF6 /* 58_SusOG.txt in Resources */,
+				BF82AB6527981F7800F6ECF6 /* 66-Ro-morphgnt.txt in Resources */,
+				BF82AB7427981F7800F6ECF6 /* 61-Mt-morphgnt.txt in Resources */,
+				BF990028279EB4E500E8AB79 /* email.jpg in Resources */,
+				BF924F82278EF4AD00799B8D /* accentedChars.txt in Resources */,
+				BF82AB5727981F7800F6ECF6 /* 21_TobitBA.txt in Resources */,
+				BF8E9156278E128400ACCB48 /* MainMenu.xib in Resources */,
+				BF82AB6927981F7800F6ECF6 /* 68-2Co-morphgnt.txt in Resources */,
+				BF82AB4F27981F7800F6ECF6 /* 07_JoshA.txt in Resources */,
+				BF82AB4027981F7800F6ECF6 /* 47_Malachi.txt in Resources */,
+				BF8F052427918ACF00229CC7 /* frmVerbDetails.xib in Resources */,
+				BF82AB7327981F7800F6ECF6 /* 71-Php-morphgnt.txt in Resources */,
+				BF82AB4127981F7800F6ECF6 /* 41_Obadiah.txt in Resources */,
+				BF82AB7027981F7800F6ECF6 /* 63-Lk-morphgnt.txt in Resources */,
+				BF82AB4427981F7800F6ECF6 /* 51_EpJer.txt in Resources */,
+				BF82AB5E27981F7800F6ECF6 /* 77-Tit-morphgnt.txt in Resources */,
+				BF99002F279EB4E500E8AB79 /* 07_Details_With_More_Options.jpg in Resources */,
+				BF82AB2F27981F7800F6ECF6 /* 34_Sirach.txt in Resources */,
+				BF82AB7127981F7800F6ECF6 /* 85-3Jn-morphgnt.txt in Resources */,
+				BF924F6F278ED79D00799B8D /* GreekUsage.bmp in Resources */,
+				BF82AB2627981F7800F6ECF6 /* 57_DanielTh.txt in Resources */,
+				BF82AB6627981F7800F6ECF6 /* 78-Phm-morphgnt.txt in Resources */,
+				BF82AB4727981F7800F6ECF6 /* 14_2Kings.txt in Resources */,
+				BF924F8A278EF92900799B8D /* accentsRemoved.txt in Resources */,
+				BF82AB6C27981F7800F6ECF6 /* 74-2Th-morphgnt.txt in Resources */,
+				BF924F87278EF7FF00799B8D /* lowGraves.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BF8E9148278E127A00ACCB48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF8E916C278E169A00ACCB48 /* classVerse.m in Sources */,
+				BF924F94278EFBBF00799B8D /* classParseDetail.m in Sources */,
+				BF8E9159278E128400ACCB48 /* main.m in Sources */,
+				BF8F052327918ACF00229CC7 /* frmVerbDetails.m in Sources */,
+				BF87D4902799AAF200E18FAB /* classReference.m in Sources */,
+				BF990045279EC63B00E8AB79 /* frmAbout.m in Sources */,
+				BF990039279EB53E00E8AB79 /* frmHelp.m in Sources */,
+				BF951154279B052400A1F6B6 /* frmChapter.m in Sources */,
+				BF87D4952799BB5900E18FAB /* frmReferences.m in Sources */,
+				BF924F8F278EFAE500799B8D /* classRoot.m in Sources */,
+				BF8E9151278E127A00ACCB48 /* AppDelegate.m in Sources */,
+				BF8E9168278E168A00ACCB48 /* classChapter.m in Sources */,
+				BF990017279EA85F00E8AB79 /* frmProgress.m in Sources */,
+				BF924FAF278F316900799B8D /* classFrequency.m in Sources */,
+				BF8E9164278E155E00ACCB48 /* classBooks.m in Sources */,
+				BF8E9171278E18CC00ACCB48 /* classProcessing.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BF8E9154278E128400ACCB48 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BF8E9155278E128400ACCB48 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BF8E915B278E128400ACCB48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		BF8E915C278E128400ACCB48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		BF8E915E278E128400ACCB48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = NTPrincipalParts/NTPrincipalParts.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = NTPrincipalParts/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = LFC.NTPrincipalParts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		BF8E915F278E128400ACCB48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = NTPrincipalParts/NTPrincipalParts.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = NTPrincipalParts/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = LFC.NTPrincipalParts;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF8E9147278E127A00ACCB48 /* Build configuration list for PBXProject "NTPrincipalParts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF8E915B278E128400ACCB48 /* Debug */,
+				BF8E915C278E128400ACCB48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF8E915D278E128400ACCB48 /* Build configuration list for PBXNativeTarget "NTPrincipalParts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF8E915E278E128400ACCB48 /* Debug */,
+				BF8E915F278E128400ACCB48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF8E9144278E127A00ACCB48 /* Project object */;
+}

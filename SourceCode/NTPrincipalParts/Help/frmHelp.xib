@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="17156" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="17156"/>
+        <plugIn identifier="com.apple.WebKit2IBPlugin" version="17156"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="frmHelp">
+            <connections>
+                <outlet property="helpWindow" destination="F0z-JX-Cv5" id="ihL-J0-Mza"/>
+                <outlet property="webView" destination="btH-er-tRZ" id="rJV-Qk-wdC"/>
+                <outlet property="window" destination="F0z-JX-Cv5" id="gIp-Ho-8D9"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <window title="NTPrincipalParts - Help" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
+            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="196" y="240" width="1200" height="1024"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1057"/>
+            <view key="contentView" id="se5-gp-TjO">
+                <rect key="frame" x="0.0" y="0.0" width="1200" height="1024"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <wkWebView wantsLayer="YES" translatesAutoresizingMaskIntoConstraints="NO" id="btH-er-tRZ">
+                        <rect key="frame" x="0.0" y="61" width="1200" height="963"/>
+                        <wkWebViewConfiguration key="configuration">
+                            <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                            <wkPreferences key="preferences"/>
+                        </wkWebViewConfiguration>
+                    </wkWebView>
+                    <customView translatesAutoresizingMaskIntoConstraints="NO" id="irY-kR-5Yt">
+                        <rect key="frame" x="0.0" y="0.0" width="1200" height="61"/>
+                        <subviews>
+                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="dtg-bE-sLl">
+                                <rect key="frame" x="1111" y="13" width="75" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="63" id="4FC-BA-gIV"/>
+                                    <constraint firstAttribute="height" constant="21" id="xVC-r3-4O5"/>
+                                </constraints>
+                                <buttonCell key="cell" type="push" title="Close" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Zy1-2A-Pet">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" metaFont="system"/>
+                                </buttonCell>
+                                <connections>
+                                    <action selector="doCloseWindow:" target="-2" id="N7k-OV-5ta"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="dtg-bE-sLl" firstAttribute="top" secondItem="irY-kR-5Yt" secondAttribute="top" constant="20" symbolic="YES" id="GyS-Kx-8BE"/>
+                            <constraint firstAttribute="height" constant="61" id="HDk-A0-IIJ"/>
+                            <constraint firstAttribute="trailing" secondItem="dtg-bE-sLl" secondAttribute="trailing" constant="20" symbolic="YES" id="dIt-0f-GNf"/>
+                        </constraints>
+                    </customView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="irY-kR-5Yt" secondAttribute="bottom" id="8uF-nS-mKf"/>
+                    <constraint firstAttribute="trailing" secondItem="irY-kR-5Yt" secondAttribute="trailing" id="RlB-jg-lVR"/>
+                    <constraint firstAttribute="trailing" secondItem="btH-er-tRZ" secondAttribute="trailing" id="SVq-Pp-DcF"/>
+                    <constraint firstItem="irY-kR-5Yt" firstAttribute="top" secondItem="btH-er-tRZ" secondAttribute="bottom" id="WFr-ID-MSo"/>
+                    <constraint firstItem="btH-er-tRZ" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="ZY7-yC-M36"/>
+                    <constraint firstItem="btH-er-tRZ" firstAttribute="top" secondItem="se5-gp-TjO" secondAttribute="top" id="j75-bb-pBs"/>
+                    <constraint firstItem="irY-kR-5Yt" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" id="rV7-6l-TfU"/>
+                </constraints>
+            </view>
+            <connections>
+                <outlet property="delegate" destination="-2" id="0bl-1N-AYu"/>
+            </connections>
+            <point key="canvasLocation" x="-165" y="132"/>
+        </window>
+    </objects>
+</document>

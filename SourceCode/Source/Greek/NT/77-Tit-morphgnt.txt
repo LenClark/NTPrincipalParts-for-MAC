@@ -1,0 +1,659 @@
+1	1	N-	----NSM-	9346	Παῦλος	παυλος	παυλος	Παῦλος	Pau~loj	pauloj	pauloj	Pau~loj			
+1	1	N-	----NSM-	9346	δοῦλος	δουλος	δουλος	δοῦλος	dou~loj	douloj	douloj	dou~loj			
+1	1	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			,
+1	1	N-	----NSM-	9346	ἀπόστολος	ἀποστολος	αποστολος	ἀπόστολος	a)po/stoloj	a)postoloj	apostoloj	a)po/stoloj			
+1	1	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+1	1	N-	----GSM-	9538	Ἰησοῦ	ἰησου	ιησου	Ἰησοῦς	I)hsou~	i)hsou	ihsou	I)hsou~j			
+1	1	N-	----GSM-	9538	Χριστοῦ	χριστου	χριστου	Χριστός	Xristou~	xristou	xristou	Xristo/j			
+1	1	P-	--------	7	κατὰ	κατα	κατα	κατά	kata\	kata	kata	kata/			
+1	1	N-	----ASF-	13570	πίστιν	πιστιν	πιστιν	πίστις	pi/stin	pistin	pistin	pi/stij			
+1	1	A-	----GPM-	10051	ἐκλεκτῶν	ἐκλεκτων	εκλεκτων	ἐκλεκτός	e)klektw~n	e)klektwn	eklektwn	e)klekto/j			
+1	1	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+1	1	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	1	N-	----ASF-	13570	ἐπίγνωσιν	ἐπιγνωσιν	επιγνωσιν	ἐπίγνωσις	e)pi/gnwsin	e)pignwsin	epignwsin	e)pi/gnwsij			
+1	1	N-	----GSF-	13634	ἀληθείας	ἀληθειας	αληθειας	ἀλήθεια	a)lhqei/aj	a)lhqeiaj	alhqeiaj	a)lh/qeia			
+1	1	RA	----GSF-	10	τῆς	της	της	ὁ	th~j	thj	thj	o(			
+1	1	P-	--------	7	κατ	κατ	κατ	κατά	kat	kat	kat	kata/			
+1	1	N-	----ASF-	13570	εὐσέβειαν	εὐσεβειαν	ευσεβειαν	εὐσέβεια	eu)se/beian	eu)sebeian	eusebeian	eu)se/beia			
+1	2	P-	--------	7	ἐπ	ἐπ	επ	ἐπί	e)p	e)p	ep	e)pi/			
+1	2	N-	----DSF-	13698	ἐλπίδι	ἐλπιδι	ελπιδι	ἐλπίς	e)lpi/di	e)lpidi	elpidi	e)lpi/j			
+1	2	N-	----GSF-	13634	ζωῆς	ζωης	ζωης	ζωή	zwh~j	zwhj	zwhj	zwh/			
+1	2	A-	----GSF-	13635	αἰωνίου	αἰωνιου	αιωνιου	αἰώνιος	ai)wni/ou	ai)wniou	aiwniou	ai)w/nioj			,
+1	2	RR	----ASF-	14	ἣν	ἡν	ην	ὅς	h\(n	h(n	hn	o/(j			
+1	2	V-	3AMI-S--	637569	ἐπηγγείλατο	ἐπηγγειλατο	επηγγειλατο	ἐπαγγέλλομαι	e)phggei/lato	e)phggeilato	ephggeilato	e)pagge/llomai			
+1	2	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+1	2	A-	----NSM-	9347	ἀψευδὴς	ἀψευδης	αψευδης	ἀψευδής	a)yeudh\j	a)yeudhj	ayeudhj	a)yeudh/j			
+1	2	N-	----NSM-	9346	θεὸς	θεος	θεος	θεός	qeo\j	qeoj	qeoj	qeo/j			
+1	2	P-	--------	7	πρὸ	προ	προ	πρό	pro\	pro	pro	pro/			
+1	2	N-	----GPM-	10050	χρόνων	χρονων	χρονων	χρόνος	xro/nwn	xronwn	xronwn	xro/noj			
+1	2	A-	----GPM-	10051	αἰωνίων	αἰωνιων	αιωνιων	αἰώνιος	ai)wni/wn	ai)wniwn	aiwniwn	ai)w/nioj			
+1	3	V-	3AAI-S--	633473	ἐφανέρωσεν	ἐφανερωσεν	εφανερωσεν	φανερόω	e)fane/rwsen	e)fanerwsen	efanerwsen	fanero/w			
+1	3	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+1	3	N-	----DPM-	10114	καιροῖς	καιροις	καιροις	καιρός	kairoi~j	kairoij	kairoij	kairo/j			
+1	3	A-	----DPM-	10115	ἰδίοις	ἰδιοις	ιδιοις	ἴδιος	i)di/oij	i)dioij	idioij	i/)dioj			,
+1	3	RA	----ASM-	10	τὸν	τον	τον	ὁ	to\n	ton	ton	o(			
+1	3	N-	----ASM-	9474	λόγον	λογον	λογον	λόγος	lo/gon	logon	logon	lo/goj			
+1	3	RP	----GSM-	13	αὐτοῦ	αὐτου	αυτου	αὐτός	au)tou~	au)tou	autou	au)to/j			
+1	3	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+1	3	N-	----DSN-	17794	κηρύγματι	κηρυγματι	κηρυγματι	κήρυγμα	khru/gmati	khrugmati	khrugmati	kh/rugma			
+1	3	RR	----ASN-	14	ὃ	ὁ	ο	ὅς	o\(	o(	o	o/(j			
+1	3	V-	1API-S--	2673281	ἐπιστεύθην	ἐπιστευθην	επιστευθην	πιστεύω	e)pisteu/qhn	e)pisteuqhn	episteuqhn	pisteu/w			
+1	3	RP	----NS--	13	ἐγὼ	ἐγω	εγω	ἐγώ	e)gw\	e)gw	egw	e)gw/			
+1	3	P-	--------	7	κατ	κατ	κατ	κατά	kat	kat	kat	kata/			
+1	3	N-	----ASF-	13570	ἐπιταγὴν	ἐπιταγην	επιταγην	ἐπιταγή	e)pitagh\n	e)pitaghn	epitaghn	e)pitagh/			
+1	3	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+1	3	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+1	3	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+1	3	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			,
+1	4	N-	----DSM-	9602	Τίτῳ	τιτω	τιτω	Τίτος	Ti/tw|	titw	titw	Ti/toj			
+1	4	A-	----DSN-	17795	γνησίῳ	γνησιω	γνησιω	γνήσιος	gnhsi/w|	gnhsiw	gnhsiw	gnh/sioj			
+1	4	N-	----DSN-	17794	τέκνῳ	τεκνω	τεκνω	τέκνον	te/knw|	teknw	teknw	te/knon			
+1	4	P-	--------	7	κατὰ	κατα	κατα	κατά	kata\	kata	kata	kata/			
+1	4	A-	----ASF-	13571	κοινὴν	κοινην	κοινην	κοινός	koinh\n	koinhn	koinhn	koino/j			
+1	4	N-	----ASF-	13570	πίστιν	πιστιν	πιστιν	πίστις	pi/stin	pistin	pistin	pi/stij			·
+1	4	N-	----NSF-	13442	χάρις	χαρις	χαρις	χάρις	xa/rij	xarij	xarij	xa/rij			
+1	4	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	4	N-	----NSF-	13442	εἰρήνη	εἰρηνη	ειρηνη	εἰρήνη	ei)rh/nh	ei)rhnh	eirhnh	ei)rh/nh			
+1	4	P-	--------	7	ἀπὸ	ἀπο	απο	ἀπό	a)po\	a)po	apo	a)po/			
+1	4	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+1	4	N-	----GSM-	9538	πατρὸς	πατρος	πατρος	πατήρ	patro\j	patroj	patroj	path/r			
+1	4	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	4	N-	----GSM-	9538	Χριστοῦ	χριστου	χριστου	Χριστός	Xristou~	xristou	xristou	Xristo/j			
+1	4	N-	----GSM-	9538	Ἰησοῦ	ἰησου	ιησου	Ἰησοῦς	I)hsou~	i)hsou	ihsou	I)hsou~j			
+1	4	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+1	4	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+1	4	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			.
+1	5	RD	----GSN-	11	Τούτου	τουτου	τουτου	οὗτος	Tou/tou	toutou	toutou	ou~(toj			
+1	5	P-	--------	7	χάριν	χαριν	χαριν	χάριν	xa/rin	xarin	xarin	xa/rin			
+1	5	V-	1AAI-S--	600705	ἀπέλιπόν	ἀπελιπον	απελιπον	ἀπολείπω	a)pe/lipo/n	a)pelipon	apelipon	a)polei/pw			
+1	5	RP	----AS--	13	σε	σε	σε	σύ	se	se	se	su/			
+1	5	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+1	5	N-	----DSF-	13698	Κρήτῃ	κρητη	κρητη	Κρήτη	Krh/th|	krhth	krhth	Krh/th			
+1	5	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+1	5	RA	----APN-	10	τὰ	τα	τα	ὁ	ta\	ta	ta	o(			
+1	5	V-	-PAPAPN-	828865	λείποντα	λειποντα	λειποντα	λείπω	lei/ponta	leiponta	leiponta	lei/pw			
+1	5	V-	2AMS-S--	637697	ἐπιδιορθώσῃ	ἐπιδιορθωση	επιδιορθωση	ἐπιδιορθόω	e)pidiorqw/sh|	e)pidiorqwsh	epidiorqwsh	e)pidiorqo/w			,
+1	5	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	5	V-	2AAS-S--	633601	καταστήσῃς	καταστησης	καταστησης	καθίστημι	katasth/sh|j	katasthshj	katasthshj	kaqi/sthmi			
+1	5	P-	--------	7	κατὰ	κατα	κατα	κατά	kata\	kata	kata	kata/			
+1	5	N-	----ASF-	13570	πόλιν	πολιν	πολιν	πόλις	po/lin	polin	polin	po/lij			
+1	5	A-	----APM-	9987	πρεσβυτέρους	πρεσβυτερους	πρεσβυτερους	πρεσβύτερος	presbute/rouj	presbuterouj	presbuterouj	presbu/teroj			,
+1	5	C-	--------	4	ὡς	ὡς	ως	ὡς	w(j	w(j	wj	w(j			
+1	5	RP	----NS--	13	ἐγώ	ἐγω	εγω	ἐγώ	e)gw/	e)gw	egw	e)gw/			
+1	5	RP	----DS--	13	σοι	σοι	σοι	σύ	soi	soi	soi	su/			
+1	5	V-	1AMI-S--	604801	διεταξάμην	διεταξαμην	διεταξαμην	διατάσσω	dietaca/mhn	dietacamhn	dietacamhn	diata/ssw			,
+1	6	C-	--------	4	εἴ	εἰ	ει	εἰ	ei/)	ei)	ei	ei)			
+1	6	RI	----NSM-	12	τίς	τις	τις	τίς	ti/j	tij	tij	ti/j			
+1	6	V-	3PAI-S--	631937	ἐστιν	ἐστιν	εστιν	εἰμί	e)stin	e)stin	estin	ei)mi/			
+1	6	A-	----NSM-	9347	ἀνέγκλητος	ἀνεγκλητος	ανεγκλητος	ἀνέγκλητος	a)ne/gklhtoj	a)negklhtoj	anegklhtoj	a)ne/gklhtoj			,
+1	6	A-	----GSF-	13635	μιᾶς	μιας	μιας	εἷς	mia~j	miaj	miaj	ei~(j			
+1	6	N-	----GSF-	13634	γυναικὸς	γυναικος	γυναικος	γυνή	gunaiko\j	gunaikoj	gunaikoj	gunh/			
+1	6	N-	----NSM-	9346	ἀνήρ	ἀνηρ	ανηρ	ἀνήρ	a)nh/r	a)nhr	anhr	a)nh/r			,
+1	6	N-	----APN-	18178	τέκνα	τεκνα	τεκνα	τέκνον	te/kna	tekna	tekna	te/knon			
+1	6	V-	-PAPNSM-	566721	ἔχων	ἐχων	εχων	ἔχω	e/)xwn	e)xwn	exwn	e/)xw			
+1	6	A-	----APN-	18179	πιστά	πιστα	πιστα	πιστός	pista/	pista	pista	pisto/j			,
+1	6	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	6	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+1	6	N-	----DSF-	13698	κατηγορίᾳ	κατηγορια	κατηγορια	κατηγορία	kathgori/a|	kathgoria	kathgoria	kathgori/a			
+1	6	N-	----GSF-	13634	ἀσωτίας	ἀσωτιας	ασωτιας	ἀσωτία	a)swti/aj	a)swtiaj	aswtiaj	a)swti/a			
+1	6	C-	--------	4	ἢ	ἠ	η	ἤ	h\)	h)	h	h/)			
+1	6	A-	----APN-	18179	ἀνυπότακτα	ἀνυποτακτα	ανυποτακτα	ἀνυπότακτος	a)nupo/takta	a)nupotakta	anupotakta	a)nupo/taktoj			.
+1	7	V-	3PAI-S--	631937	δεῖ	δει	δει	δέω	dei~	dei	dei	de/w			
+1	7	C-	--------	4	γὰρ	γαρ	γαρ	γάρ	ga\r	gar	gar	ga/r			
+1	7	RA	----ASM-	10	τὸν	τον	τον	ὁ	to\n	ton	ton	o(			
+1	7	N-	----ASM-	9474	ἐπίσκοπον	ἐπισκοπον	επισκοπον	ἐπίσκοπος	e)pi/skopon	e)piskopon	episkopon	e)pi/skopoj			
+1	7	A-	----ASM-	9475	ἀνέγκλητον	ἀνεγκλητον	ανεγκλητον	ἀνέγκλητος	a)ne/gklhton	a)negklhton	anegklhton	a)ne/gklhtoj			
+1	7	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			
+1	7	C-	--------	4	ὡς	ὡς	ως	ὡς	w(j	w(j	wj	w(j			
+1	7	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+1	7	N-	----ASM-	9474	οἰκονόμον	οἰκονομον	οικονομον	οἰκονόμος	oi)kono/mon	oi)konomon	oikonomon	oi)kono/moj			,
+1	7	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	7	A-	----ASM-	9475	αὐθάδη	αὐθαδη	αυθαδη	αὐθάδης	au)qa/dh	au)qadh	auqadh	au)qa/dhj			,
+1	7	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	7	A-	----ASM-	9475	ὀργίλον	ὀργιλον	οργιλον	ὀργίλος	o)rgi/lon	o)rgilon	orgilon	o)rgi/loj			,
+1	7	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	7	A-	----ASM-	9475	πάροινον	παροινον	παροινον	πάροινος	pa/roinon	paroinon	paroinon	pa/roinoj			,
+1	7	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	7	N-	----ASM-	9474	πλήκτην	πληκτην	πληκτην	πλήκτης	plh/kthn	plhkthn	plhkthn	plh/kthj			,
+1	7	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	7	A-	----ASM-	9475	αἰσχροκερδῆ	αἰσχροκερδη	αισχροκερδη	αἰσχροκερδής	ai)sxrokerdh~	ai)sxrokerdh	aisxrokerdh	ai)sxrokerdh/j			,
+1	8	C-	--------	4	ἀλλὰ	ἀλλα	αλλα	ἀλλά	a)lla\	a)lla	alla	a)lla/			
+1	8	A-	----ASM-	9475	φιλόξενον	φιλοξενον	φιλοξενον	φιλόξενος	filo/cenon	filocenon	filocenon	filo/cenoj			,
+1	8	A-	----ASM-	9475	φιλάγαθον	φιλαγαθον	φιλαγαθον	φιλάγαθος	fila/gaqon	filagaqon	filagaqon	fila/gaqoj			,
+1	8	A-	----ASM-	9475	σώφρονα	σωφρονα	σωφρονα	σώφρων	sw/frona	swfrona	swfrona	sw/frwn			,
+1	8	A-	----ASM-	9475	δίκαιον	δικαιον	δικαιον	δίκαιος	di/kaion	dikaion	dikaion	di/kaioj			,
+1	8	A-	----ASM-	9475	ὅσιον	ὁσιον	οσιον	ὅσιος	o/(sion	o(sion	osion	o/(sioj			,
+1	8	A-	----ASM-	9475	ἐγκρατῆ	ἐγκρατη	εγκρατη	ἐγκρατής	e)gkrath~	e)gkrath	egkrath	e)gkrath/j			,
+1	9	V-	-PMPASM-	570817	ἀντεχόμενον	ἀντεχομενον	αντεχομενον	ἀντέχομαι	a)ntexo/menon	a)ntexomenon	antexomenon	a)nte/xomai			
+1	9	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+1	9	P-	--------	7	κατὰ	κατα	κατα	κατά	kata\	kata	kata	kata/			
+1	9	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+1	9	N-	----ASF-	13570	διδαχὴν	διδαχην	διδαχην	διδαχή	didaxh\n	didaxhn	didaxhn	didaxh/			
+1	9	A-	----GSM-	9539	πιστοῦ	πιστου	πιστου	πιστός	pistou~	pistou	pistou	pisto/j			
+1	9	N-	----GSM-	9538	λόγου	λογου	λογου	λόγος	lo/gou	logou	logou	lo/goj			,
+1	9	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+1	9	A-	----NSM-	9347	δυνατὸς	δυνατος	δυνατος	δυνατός	dunato\j	dunatoj	dunatoj	dunato/j			
+1	9	V-	3PAS-S--	632065	ᾖ	ἠ	η	εἰμί	h~)|	h)	h	ei)mi/			
+1	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	9	V-	-PAN----	304513	παρακαλεῖν	παρακαλειν	παρακαλειν	παρακαλέω	parakalei~n	parakalein	parakalein	parakale/w			
+1	9	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+1	9	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+1	9	N-	----DSF-	13698	διδασκαλίᾳ	διδασκαλια	διδασκαλια	διδασκαλία	didaskali/a|	didaskalia	didaskalia	didaskali/a			
+1	9	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+1	9	V-	-PAPDSF-	566721	ὑγιαινούσῃ	ὑγιαινουση	υγιαινουση	ὑγιαίνω	u(giainou/sh|	u(giainoush	ugiainoush	u(giai/nw			
+1	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	9	RA	----APM-	10	τοὺς	τους	τους	ὁ	tou\j	touj	touj	o(			
+1	9	V-	-PAPAPM-	828865	ἀντιλέγοντας	ἀντιλεγοντας	αντιλεγοντας	ἀντιλέγω	a)ntile/gontaj	a)ntilegontaj	antilegontaj	a)ntile/gw			
+1	9	V-	-PAN----	304513	ἐλέγχειν	ἐλεγχειν	ελεγχειν	ἐλέγχω	e)le/gxein	e)legxein	elegxein	e)le/gxw			.
+1	10	V-	3PAI-P--	894081	Εἰσὶν	εἰσιν	εισιν	εἰμί	Ei)si\n	ei)sin	eisin	ei)mi/			
+1	10	C-	--------	4	γὰρ	γαρ	γαρ	γάρ	ga\r	gar	gar	ga/r			
+1	10	A-	----NPM-	9859	πολλοὶ	πολλοι	πολλοι	πολύς	polloi\	polloi	polloi	polu/j			
+1	10	D-	--------	8	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	10	A-	----NPM-	9859	ἀνυπότακτοι	ἀνυποτακτοι	ανυποτακτοι	ἀνυπότακτος	a)nupo/taktoi	a)nupotaktoi	anupotaktoi	a)nupo/taktoj			,
+1	10	A-	----NPM-	9859	ματαιολόγοι	ματαιολογοι	ματαιολογοι	ματαιολόγος	mataiolo/goi	mataiologoi	mataiologoi	mataiolo/goj			
+1	10	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	10	N-	----NPM-	9858	φρεναπάται	φρεναπαται	φρεναπαται	φρεναπάτης	frenapa/tai	frenapatai	frenapatai	frenapa/thj			,
+1	10	D-	--------	8	μάλιστα	μαλιστα	μαλιστα	μάλιστα	ma/lista	malista	malista	ma/lista			
+1	10	RA	----NPM-	10	οἱ	οἱ	οι	ὁ	oi(	oi(	oi	o(			
+1	10	P-	--------	7	ἐκ	ἐκ	εκ	ἐκ	e)k	e)k	ek	e)k			
+1	10	RA	----GSF-	10	τῆς	της	της	ὁ	th~j	thj	thj	o(			
+1	10	N-	----GSF-	13634	περιτομῆς	περιτομης	περιτομης	περιτομή	peritomh~j	peritomhj	peritomhj	peritomh/			,
+1	11	RR	----APM-	14	οὓς	οὑς	ους	ὅς	ou\(j	ou(j	ouj	o/(j			
+1	11	V-	3PAI-S--	631937	δεῖ	δει	δει	δέω	dei~	dei	dei	de/w			
+1	11	V-	-PAN----	304513	ἐπιστομίζειν	ἐπιστομιζειν	επιστομιζειν	ἐπιστομίζω	e)pistomi/zein	e)pistomizein	epistomizein	e)pistomi/zw			,
+1	11	RR	----NPM-	14	οἵτινες	οἱτινες	οιτινες	ὅστις	oi/(tinej	oi(tinej	oitinej	o/(stij			
+1	11	A-	----APM-	9987	ὅλους	ὁλους	ολους	ὅλος	o/(louj	o(louj	olouj	o/(loj			
+1	11	N-	----APM-	9986	οἴκους	οἰκους	οικους	οἶκος	oi/)kouj	oi)kouj	oikouj	oi~)koj			
+1	11	V-	3PAI-P--	894081	ἀνατρέπουσιν	ἀνατρεπουσιν	ανατρεπουσιν	ἀνατρέπω	a)natre/pousin	a)natrepousin	anatrepousin	a)natre/pw			
+1	11	V-	-PAPNPM-	828865	διδάσκοντες	διδασκοντες	διδασκοντες	διδάσκω	dida/skontej	didaskontej	didaskontej	dida/skw			
+1	11	RR	----APN-	14	ἃ	ἁ	α	ὅς	a\(	a(	a	o/(j			
+1	11	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	11	V-	3PAI-S--	631937	δεῖ	δει	δει	δέω	dei~	dei	dei	de/w			
+1	11	A-	----GSN-	17731	αἰσχροῦ	αἰσχρου	αισχρου	αἰσχρός	ai)sxrou~	ai)sxrou	aisxrou	ai)sxro/j			
+1	11	N-	----GSN-	17730	κέρδους	κερδους	κερδους	κέρδος	ke/rdouj	kerdouj	kerdouj	ke/rdoj			
+1	11	P-	--------	7	χάριν	χαριν	χαριν	χάριν	xa/rin	xarin	xarin	xa/rin			.
+1	12	V-	3AAI-S--	633473	εἶπέν	εἰπεν	ειπεν	λέγω	ei~)pe/n	ei)pen	eipen	le/gw			
+1	12	RI	----NSM-	12	τις	τις	τις	τις	tij	tij	tij	tij			
+1	12	P-	--------	7	ἐξ	ἐξ	εξ	ἐκ	e)c	e)c	ec	e)k			
+1	12	RP	----GPM-	13	αὐτῶν	αὐτων	αυτων	αὐτός	au)tw~n	au)twn	autwn	au)to/j			,
+1	12	A-	----NSM-	9347	ἴδιος	ἰδιος	ιδιος	ἴδιος	i/)dioj	i)dioj	idioj	i/)dioj			
+1	12	RP	----GPM-	13	αὐτῶν	αὐτων	αυτων	αὐτός	au)tw~n	au)twn	autwn	au)to/j			
+1	12	N-	----NSM-	9346	προφήτης	προφητης	προφητης	προφήτης	profh/thj	profhthj	profhthj	profh/thj			,
+1	12	N-	----NPM-	9858	Κρῆτες	κρητες	κρητες	Κρής	Krh~tej	krhtej	krhtej	Krh/j			
+1	12	D-	--------	8	ἀεὶ	ἀει	αει	ἀεί	a)ei\	a)ei	aei	a)ei/			
+1	12	N-	----NPM-	9858	ψεῦσται	ψευσται	ψευσται	ψεύστης	yeu~stai	yeustai	yeustai	yeu/sthj			,
+1	12	A-	----NPN-	18051	κακὰ	κακα	κακα	κακός	kaka\	kaka	kaka	kako/j			
+1	12	N-	----NPN-	18050	θηρία	θηρια	θηρια	θηρίον	qhri/a	qhria	qhria	qhri/on			,
+1	12	N-	----NPF-	13954	γαστέρες	γαστερες	γαστερες	γαστήρ	gaste/rej	gasterej	gasterej	gasth/r			
+1	12	A-	----NPF-	13955	ἀργαί	ἀργαι	αργαι	ἀργός	a)rgai/	a)rgai	argai	a)rgo/j			·
+1	13	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+1	13	N-	----NSF-	13442	μαρτυρία	μαρτυρια	μαρτυρια	μαρτυρία	marturi/a	marturia	marturia	marturi/a			
+1	13	RD	----NSF-	11	αὕτη	αὑτη	αυτη	οὗτος	au/(th	au(th	auth	ou~(toj			
+1	13	V-	3PAI-S--	631937	ἐστὶν	ἐστιν	εστιν	εἰμί	e)sti\n	e)stin	estin	ei)mi/			
+1	13	A-	----NSF-	13443	ἀληθής	ἀληθης	αληθης	ἀληθής	a)lhqh/j	a)lhqhj	alhqhj	a)lhqh/j			.
+1	13	P-	--------	7	δι	δι	δι	διά	di	di	di	dia/			
+1	13	RR	----ASF-	14	ἣν	ἡν	ην	ὅς	h\(n	h(n	hn	o/(j			
+1	13	N-	----ASF-	13570	αἰτίαν	αἰτιαν	αιτιαν	αἰτία	ai)ti/an	ai)tian	aitian	ai)ti/a			
+1	13	V-	2PAD-S--	632001	ἔλεγχε	ἐλεγχε	ελεγχε	ἐλέγχω	e/)legxe	e)legxe	elegxe	e)le/gxw			
+1	13	RP	----APM-	13	αὐτοὺς	αὐτους	αυτους	ἑαυτοῦ	au)tou\j	au)touj	autouj	e(autou~			
+1	13	D-	--------	8	ἀποτόμως	ἀποτομως	αποτομως	ἀποτόμως	a)poto/mwj	a)potomwj	apotomwj	a)poto/mwj			,
+1	13	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+1	13	V-	3PAS-P--	894209	ὑγιαίνωσιν	ὑγιαινωσιν	υγιαινωσιν	ὑγιαίνω	u(giai/nwsin	u(giainwsin	ugiainwsin	u(giai/nw			
+1	13	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+1	13	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+1	13	N-	----DSF-	13698	πίστει	πιστει	πιστει	πίστις	pi/stei	pistei	pistei	pi/stij			,
+1	14	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+1	14	V-	-PAPNPM-	828865	προσέχοντες	προσεχοντες	προσεχοντες	προσέχω	prose/xontej	prosexontej	prosexontej	prose/xw			
+1	14	A-	----DPM-	10115	Ἰουδαϊκοῖς	ἰουδαϊκοις	ιουδαικοις	Ἰουδαϊκός	I)oudai:koi~j	i)oudai:koij	ioudaikoij	I)oudai:ko/j			
+1	14	N-	----DPM-	10114	μύθοις	μυθοις	μυθοις	μῦθος	mu/qoij	muqoij	muqoij	mu~qoj			
+1	14	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	14	N-	----DPF-	14210	ἐντολαῖς	ἐντολαις	εντολαις	ἐντολή	e)ntolai~j	e)ntolaij	entolaij	e)ntolh/			
+1	14	N-	----GPM-	10050	ἀνθρώπων	ἀνθρωπων	ανθρωπων	ἄνθρωπος	a)nqrw/pwn	a)nqrwpwn	anqrwpwn	a/)nqrwpoj			
+1	14	V-	-PPPGPM-	5162433	ἀποστρεφομένων	ἀποστρεφομενων	αποστρεφομενων	ἀποστρέφω	a)postrefome/nwn	a)postrefomenwn	apostrefomenwn	a)postre/fw			
+1	14	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+1	14	N-	----ASF-	13570	ἀλήθειαν	ἀληθειαν	αληθειαν	ἀλήθεια	a)lh/qeian	a)lhqeian	alhqeian	a)lh/qeia			.
+1	15	A-	----NPN-	18051	πάντα	παντα	παντα	πᾶς	pa/nta	panta	panta	pa~j			
+1	15	A-	----NPN-	18051	καθαρὰ	καθαρα	καθαρα	καθαρός	kaqara\	kaqara	kaqara	kaqaro/j			
+1	15	RA	----DPM-	10	τοῖς	τοις	τοις	ὁ	toi~j	toij	toij	o(			
+1	15	A-	----DPM-	10115	καθαροῖς	καθαροις	καθαροις	καθαρός	kaqaroi~j	kaqaroij	kaqaroij	kaqaro/j			·
+1	15	RA	----DPM-	10	τοῖς	τοις	τοις	ὁ	toi~j	toij	toij	o(			
+1	15	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+1	15	V-	-XPPDPM-	5197249	μεμιαμμένοις	μεμιαμμενοις	μεμιαμμενοις	μιαίνω	memiamme/noij	memiammenoij	memiammenoij	miai/nw			
+1	15	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	15	A-	----DPM-	10115	ἀπίστοις	ἀπιστοις	απιστοις	ἄπιστος	a)pi/stoij	a)pistoij	apistoij	a/)pistoj			
+1	15	A-	----NSN-	17539	οὐδὲν	οὐδεν	ουδεν	οὐδείς	ou)de\n	ou)den	ouden	ou)dei/j			
+1	15	A-	----NSN-	17539	καθαρόν	καθαρον	καθαρον	καθαρός	kaqaro/n	kaqaron	kaqaron	kaqaro/j			,
+1	15	C-	--------	4	ἀλλὰ	ἀλλα	αλλα	ἀλλά	a)lla\	a)lla	alla	a)lla/			
+1	15	V-	3XPI-S--	2673793	μεμίανται	μεμιανται	μεμιανται	μιαίνω	memi/antai	memiantai	memiantai	miai/nw			
+1	15	RP	----GPM-	13	αὐτῶν	αὐτων	αυτων	αὐτός	au)tw~n	au)twn	autwn	au)to/j			
+1	15	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	15	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+1	15	N-	----NSM-	9346	νοῦς	νους	νους	νοῦς	nou~j	nouj	nouj	nou~j			
+1	15	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	15	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+1	15	N-	----NSF-	13442	συνείδησις	συνειδησις	συνειδησις	συνείδησις	sunei/dhsij	suneidhsij	suneidhsij	sunei/dhsij			.
+1	16	N-	----ASM-	9474	θεὸν	θεον	θεον	θεός	qeo\n	qeon	qeon	qeo/j			
+1	16	V-	3PAI-P--	894081	ὁμολογοῦσιν	ὁμολογουσιν	ομολογουσιν	ὁμολογέω	o(mologou~sin	o(mologousin	omologousin	o(mologe/w			
+1	16	V-	-XAN----	306561	εἰδέναι	εἰδεναι	ειδεναι	οἶδα	ei)de/nai	ei)denai	eidenai	oi~)da			,
+1	16	RA	----DPN-	10	τοῖς	τοις	τοις	ὁ	toi~j	toij	toij	o(			
+1	16	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+1	16	N-	----DPN-	18306	ἔργοις	ἐργοις	εργοις	ἔργον	e/)rgoij	e)rgoij	ergoij	e/)rgon			
+1	16	V-	3PMI-P--	898177	ἀρνοῦνται	ἀρνουνται	αρνουνται	ἀρνέομαι	a)rnou~ntai	a)rnountai	arnountai	a)rne/omai			,
+1	16	A-	----NPM-	9859	βδελυκτοὶ	βδελυκτοι	βδελυκτοι	βδελυκτός	bdeluktoi\	bdeluktoi	bdeluktoi	bdelukto/j			
+1	16	V-	-PAPNPM-	828865	ὄντες	ὀντες	οντες	εἰμί	o/)ntej	o)ntej	ontej	ei)mi/			
+1	16	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	16	A-	----NPM-	9859	ἀπειθεῖς	ἀπειθεις	απειθεις	ἀπειθής	a)peiqei~j	a)peiqeij	apeiqeij	a)peiqh/j			
+1	16	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+1	16	P-	--------	7	πρὸς	προς	προς	πρός	pro\j	proj	proj	pro/j			
+1	16	A-	----ASN-	17667	πᾶν	παν	παν	πᾶς	pa~n	pan	pan	pa~j			
+1	16	N-	----ASN-	17666	ἔργον	ἐργον	εργον	ἔργον	e/)rgon	e)rgon	ergon	e/)rgon			
+1	16	A-	----ASN-	17667	ἀγαθὸν	ἀγαθον	αγαθον	ἀγαθός	a)gaqo\n	a)gaqon	agaqon	a)gaqo/j			
+1	16	A-	----NPM-	9859	ἀδόκιμοι	ἀδοκιμοι	αδοκιμοι	ἀδόκιμος	a)do/kimoi	a)dokimoi	adokimoi	a)do/kimoj			.
+2	1	RP	----NS--	13	Σὺ	συ	συ	σύ	Su\	su	su	su/			
+2	1	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+2	1	V-	2PAD-S--	632001	λάλει	λαλει	λαλει	λαλέω	la/lei	lalei	lalei	lale/w			
+2	1	RR	----NPN-	14	ἃ	ἁ	α	ὅς	a\(	a(	a	o/(j			
+2	1	V-	3PAI-S--	631937	πρέπει	πρεπει	πρεπει	πρέπω	pre/pei	prepei	prepei	pre/pw			
+2	1	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+2	1	V-	-PAPDSF-	566721	ὑγιαινούσῃ	ὑγιαινουση	υγιαινουση	ὑγιαίνω	u(giainou/sh|	u(giainoush	ugiainoush	u(giai/nw			
+2	1	N-	----DSF-	13698	διδασκαλίᾳ	διδασκαλια	διδασκαλια	διδασκαλία	didaskali/a|	didaskalia	didaskalia	didaskali/a			.
+2	2	N-	----APM-	9986	πρεσβύτας	πρεσβυτας	πρεσβυτας	πρεσβύτης	presbu/taj	presbutaj	presbutaj	presbu/thj			
+2	2	A-	----APM-	9987	νηφαλίους	νηφαλιους	νηφαλιους	νηφάλιος	nhfali/ouj	nhfaliouj	nhfaliouj	nhfa/lioj			
+2	2	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			,
+2	2	A-	----APM-	9987	σεμνούς	σεμνους	σεμνους	σεμνός	semnou/j	semnouj	semnouj	semno/j			,
+2	2	A-	----APM-	9987	σώφρονας	σωφρονας	σωφρονας	σώφρων	sw/fronaj	swfronaj	swfronaj	sw/frwn			,
+2	2	V-	-PAPAPM-	828865	ὑγιαίνοντας	ὑγιαινοντας	υγιαινοντας	ὑγιαίνω	u(giai/nontaj	u(giainontaj	ugiainontaj	u(giai/nw			
+2	2	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+2	2	N-	----DSF-	13698	πίστει	πιστει	πιστει	πίστις	pi/stei	pistei	pistei	pi/stij			,
+2	2	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+2	2	N-	----DSF-	13698	ἀγάπῃ	ἀγαπη	αγαπη	ἀγάπη	a)ga/ph|	a)gaph	agaph	a)ga/ph			,
+2	2	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+2	2	N-	----DSF-	13698	ὑπομονῇ	ὑπομονη	υπομονη	ὑπομονή	u(pomonh~|	u(pomonh	upomonh	u(pomonh/			.
+2	3	N-	----APF-	14082	Πρεσβύτιδας	πρεσβυτιδας	πρεσβυτιδας	πρεσβῦτις	Presbu/tidaj	presbutidaj	presbutidaj	presbu~tij			
+2	3	D-	--------	8	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως	w(sau/twj	w(sautwj	wsautwj	w(sau/twj			
+2	3	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+2	3	N-	----DSN-	17794	καταστήματι	καταστηματι	καταστηματι	κατάστημα	katasth/mati	katasthmati	katasthmati	kata/sthma			
+2	3	A-	----APF-	14083	ἱεροπρεπεῖς	ἱεροπρεπεις	ιεροπρεπεις	ἱεροπρεπής	i(eroprepei~j	i(eroprepeij	ieroprepeij	i(eropreph/j			,
+2	3	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+2	3	A-	----APF-	14083	διαβόλους	διαβολους	διαβολους	διάβολος	diabo/louj	diabolouj	diabolouj	dia/boloj			
+2	3	C-	--------	4	μηδὲ	μηδε	μηδε	μηδέ	mhde\	mhde	mhde	mhde/			
+2	3	N-	----DSM-	9602	οἴνῳ	οἰνω	οινω	οἶνος	oi/)nw|	oi)nw	oinw	oi~)noj			
+2	3	A-	----DSM-	9603	πολλῷ	πολλω	πολλω	πολύς	pollw~|	pollw	pollw	polu/j			
+2	3	V-	-XPPAPF-	7228865	δεδουλωμένας	δεδουλωμενας	δεδουλωμενας	δουλόω	dedoulwme/naj	dedoulwmenaj	dedoulwmenaj	doulo/w			,
+2	3	A-	----APF-	14083	καλοδιδασκάλους	καλοδιδασκαλους	καλοδιδασκαλους	καλοδιδάσκαλος	kalodidaska/louj	kalodidaskalouj	kalodidaskalouj	kalodida/skaloj			,
+2	4	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	4	V-	3PAS-P--	894209	σωφρονίζωσι	σωφρονιζωσι	σωφρονιζωσι	σωφρονίζω	swfroni/zwsi	swfronizwsi	swfronizwsi	swfroni/zw			
+2	4	RA	----APF-	10	τὰς	τας	τας	ὁ	ta\j	taj	taj	o(			
+2	4	A-	----APF-	14083	νέας	νεας	νεας	νέος	ne/aj	neaj	neaj	ne/oj			
+2	4	A-	----APF-	14083	φιλάνδρους	φιλανδρους	φιλανδρους	φίλανδρος	fila/ndrouj	filandrouj	filandrouj	fi/landroj			
+2	4	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			,
+2	4	A-	----APF-	14083	φιλοτέκνους	φιλοτεκνους	φιλοτεκνους	φιλότεκνος	filote/knouj	filoteknouj	filoteknouj	filo/teknoj			,
+2	5	A-	----APF-	14083	σώφρονας	σωφρονας	σωφρονας	σώφρων	sw/fronaj	swfronaj	swfronaj	sw/frwn			,
+2	5	A-	----APF-	14083	ἁγνάς	ἁγνας	αγνας	ἁγνός	a(gna/j	a(gnaj	agnaj	a(gno/j			,
+2	5	A-	----APF-	14083	οἰκουργούς	οἰκουργους	οικουργους	οἰκουργός	oi)kourgou/j	oi)kourgouj	oikourgouj	oi)kourgo/j			,
+2	5	A-	----APF-	14083	ἀγαθάς	ἀγαθας	αγαθας	ἀγαθός	a)gaqa/j	a)gaqaj	agaqaj	a)gaqo/j			,
+2	5	V-	-PPPAPF-	7226817	ὑποτασσομένας	ὑποτασσομενας	υποτασσομενας	ὑποτάσσω	u(potassome/naj	u(potassomenaj	upotassomenaj	u(pota/ssw			
+2	5	RA	----DPM-	10	τοῖς	τοις	τοις	ὁ	toi~j	toij	toij	o(			
+2	5	A-	----DPM-	10115	ἰδίοις	ἰδιοις	ιδιοις	ἴδιος	i)di/oij	i)dioij	idioij	i/)dioj			
+2	5	N-	----DPM-	10114	ἀνδράσιν	ἀνδρασιν	ανδρασιν	ἀνήρ	a)ndra/sin	a)ndrasin	andrasin	a)nh/r			,
+2	5	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	5	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+2	5	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+2	5	N-	----NSM-	9346	λόγος	λογος	λογος	λόγος	lo/goj	logoj	logoj	lo/goj			
+2	5	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+2	5	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+2	5	V-	3PPS-S--	2671873	βλασφημῆται	βλασφημηται	βλασφημηται	βλασφημέω	blasfhmh~tai	blasfhmhtai	blasfhmhtai	blasfhme/w			.
+2	6	RA	----APM-	10	Τοὺς	τους	τους	ὁ	Tou\j	touj	touj	o(			
+2	6	A-	----APMC	42755	νεωτέρους	νεωτερους	νεωτερους	νέος	newte/rouj	newterouj	newterouj	ne/oj			
+2	6	D-	--------	8	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως	w(sau/twj	w(sautwj	wsautwj	w(sau/twj			
+2	6	V-	2PAD-S--	632001	παρακάλει	παρακαλει	παρακαλει	παρακαλέω	paraka/lei	parakalei	parakalei	parakale/w			
+2	6	V-	-PAN----	304513	σωφρονεῖν	σωφρονειν	σωφρονειν	σωφρονέω	swfronei~n	swfronein	swfronein	swfrone/w			·
+2	7	P-	--------	7	περὶ	περι	περι	περί	peri\	peri	peri	peri/			
+2	7	A-	----APN-	18179	πάντα	παντα	παντα	πᾶς	pa/nta	panta	panta	pa~j			
+2	7	RP	----ASM-	13	σεαυτὸν	σεαυτον	σεαυτον	σεαυτοῦ	seauto\n	seauton	seauton	seautou~			
+2	7	V-	-PMPNSM-	570817	παρεχόμενος	παρεχομενος	παρεχομενος	παρέχω	parexo/menoj	parexomenoj	parexomenoj	pare/xw			
+2	7	N-	----ASM-	9474	τύπον	τυπον	τυπον	τύπος	tu/pon	tupon	tupon	tu/poj			
+2	7	A-	----GPN-	18243	καλῶν	καλων	καλων	καλός	kalw~n	kalwn	kalwn	kalo/j			
+2	7	N-	----GPN-	18242	ἔργων	ἐργων	εργων	ἔργον	e/)rgwn	e)rgwn	ergwn	e/)rgon			,
+2	7	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+2	7	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+2	7	N-	----DSF-	13698	διδασκαλίᾳ	διδασκαλια	διδασκαλια	διδασκαλία	didaskali/a|	didaskalia	didaskalia	didaskali/a			
+2	7	N-	----ASF-	13570	ἀφθορίαν	ἀφθοριαν	αφθοριαν	ἀφθορία	a)fqori/an	a)fqorian	afqorian	a)fqori/a			,
+2	7	N-	----ASF-	13570	σεμνότητα	σεμνοτητα	σεμνοτητα	σεμνότης	semno/thta	semnothta	semnothta	semno/thj			,
+2	8	N-	----ASM-	9474	λόγον	λογον	λογον	λόγος	lo/gon	logon	logon	lo/goj			
+2	8	A-	----ASM-	9475	ὑγιῆ	ὑγιη	υγιη	ὑγιής	u(gih~	u(gih	ugih	u(gih/j			
+2	8	A-	----ASM-	9475	ἀκατάγνωστον	ἀκαταγνωστον	ακαταγνωστον	ἀκατάγνωστος	a)kata/gnwston	a)katagnwston	akatagnwston	a)kata/gnwstoj			,
+2	8	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	8	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+2	8	P-	--------	7	ἐξ	ἐξ	εξ	ἐκ	e)c	e)c	ec	e)k			
+2	8	A-	----GSF-	13635	ἐναντίας	ἐναντιας	εναντιας	ἐναντίος	e)nanti/aj	e)nantiaj	enantiaj	e)nanti/oj			
+2	8	V-	3APS-S--	2673409	ἐντραπῇ	ἐντραπη	εντραπη	ἐντρέπω	e)ntraph~|	e)ntraph	entraph	e)ntre/pw			
+2	8	A-	----ASN-	17667	μηδὲν	μηδεν	μηδεν	μηδείς	mhde\n	mhden	mhden	mhdei/j			
+2	8	V-	-PAPNSM-	566721	ἔχων	ἐχων	εχων	ἔχω	e/)xwn	e)xwn	exwn	e/)xw			
+2	8	V-	-PAN----	304513	λέγειν	λεγειν	λεγειν	λέγω	le/gein	legein	legein	le/gw			
+2	8	P-	--------	7	περὶ	περι	περι	περί	peri\	peri	peri	peri/			
+2	8	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+2	8	A-	----ASN-	17667	φαῦλον	φαυλον	φαυλον	φαῦλος	fau~lon	faulon	faulon	fau~loj			.
+2	9	N-	----APM-	9986	Δούλους	δουλους	δουλους	δοῦλος	Dou/louj	doulouj	doulouj	dou~loj			
+2	9	A-	----DPM-	10115	ἰδίοις	ἰδιοις	ιδιοις	ἴδιος	i)di/oij	i)dioij	idioij	i/)dioj			
+2	9	N-	----DPM-	10114	δεσπόταις	δεσποταις	δεσποταις	δεσπότης	despo/taij	despotaij	despotaij	despo/thj			
+2	9	V-	-PPN----	2409857	ὑποτάσσεσθαι	ὑποτασσεσθαι	υποτασσεσθαι	ὑποτάσσω	u(pota/ssesqai	u(potassesqai	upotassesqai	u(pota/ssw			
+2	9	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+2	9	A-	----DPN-	18307	πᾶσιν	πασιν	πασιν	πᾶς	pa~sin	pasin	pasin	pa~j			,
+2	9	A-	----APM-	9987	εὐαρέστους	εὐαρεστους	ευαρεστους	εὐάρεστος	eu)are/stouj	eu)arestouj	euarestouj	eu)a/restoj			
+2	9	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			,
+2	9	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+2	9	V-	-PAPAPM-	828865	ἀντιλέγοντας	ἀντιλεγοντας	αντιλεγοντας	ἀντιλέγω	a)ntile/gontaj	a)ntilegontaj	antilegontaj	a)ntile/gw			,
+2	10	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+2	10	V-	-PMPAPM-	832961	νοσφιζομένους	νοσφιζομενους	νοσφιζομενους	νοσφίζομαι	nosfizome/nouj	nosfizomenouj	nosfizomenouj	nosfi/zomai			,
+2	10	C-	--------	4	ἀλλὰ	ἀλλα	αλλα	ἀλλά	a)lla\	a)lla	alla	a)lla/			
+2	10	A-	----ASF-	13571	πᾶσαν	πασαν	πασαν	πᾶς	pa~san	pasan	pasan	pa~j			
+2	10	N-	----ASF-	13570	πίστιν	πιστιν	πιστιν	πίστις	pi/stin	pistin	pistin	pi/stij			
+2	10	V-	-PMPAPM-	832961	ἐνδεικνυμένους	ἐνδεικνυμενους	ενδεικνυμενους	ἐνδείκνυμι	e)ndeiknume/nouj	e)ndeiknumenouj	endeiknumenouj	e)ndei/knumi			
+2	10	A-	----ASF-	13571	ἀγαθήν	ἀγαθην	αγαθην	ἀγαθός	a)gaqh/n	a)gaqhn	agaqhn	a)gaqo/j			,
+2	10	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	10	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+2	10	N-	----ASF-	13570	διδασκαλίαν	διδασκαλιαν	διδασκαλιαν	διδασκαλία	didaskali/an	didaskalian	didaskalian	didaskali/a			
+2	10	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+2	10	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+2	10	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+2	10	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+2	10	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+2	10	V-	3PAS-P--	894209	κοσμῶσιν	κοσμωσιν	κοσμωσιν	κοσμέω	kosmw~sin	kosmwsin	kosmwsin	kosme/w			
+2	10	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+2	10	A-	----DPN-	18307	πᾶσιν	πασιν	πασιν	πᾶς	pa~sin	pasin	pasin	pa~j			.
+2	11	V-	3API-S--	2673281	Ἐπεφάνη	ἐπεφανη	επεφανη	ἐπιφαίνω	E)pefa/nh	e)pefanh	epefanh	e)pifai/nw			
+2	11	C-	--------	4	γὰρ	γαρ	γαρ	γάρ	ga\r	gar	gar	ga/r			
+2	11	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+2	11	N-	----NSF-	13442	χάρις	χαρις	χαρις	χάρις	xa/rij	xarij	xarij	xa/rij			
+2	11	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+2	11	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+2	11	A-	----NSF-	13443	σωτήριος	σωτηριος	σωτηριος	σωτήριος	swth/rioj	swthrioj	swthrioj	swth/rioj			
+2	11	A-	----DPM-	10115	πᾶσιν	πασιν	πασιν	πᾶς	pa~sin	pasin	pasin	pa~j			
+2	11	N-	----DPM-	10114	ἀνθρώποις	ἀνθρωποις	ανθρωποις	ἄνθρωπος	a)nqrw/poij	a)nqrwpoij	anqrwpoij	a/)nqrwpoj			
+2	12	V-	-PAPNSF-	566721	παιδεύουσα	παιδευουσα	παιδευουσα	παιδεύω	paideu/ousa	paideuousa	paideuousa	paideu/w			
+2	12	RP	----AP--	13	ἡμᾶς	ἡμας	ημας	ἐγώ	h(ma~j	h(maj	hmaj	e)gw/			,
+2	12	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	12	V-	-AMPNPM-	834497	ἀρνησάμενοι	ἀρνησαμενοι	αρνησαμενοι	ἀρνέομαι	a)rnhsa/menoi	a)rnhsamenoi	arnhsamenoi	a)rne/omai			
+2	12	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+2	12	N-	----ASF-	13570	ἀσέβειαν	ἀσεβειαν	ασεβειαν	ἀσέβεια	a)se/beian	a)sebeian	asebeian	a)se/beia			
+2	12	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	12	RA	----APF-	10	τὰς	τας	τας	ὁ	ta\j	taj	taj	o(			
+2	12	A-	----APF-	14083	κοσμικὰς	κοσμικας	κοσμικας	κοσμικός	kosmika\j	kosmikaj	kosmikaj	kosmiko/j			
+2	12	N-	----APF-	14082	ἐπιθυμίας	ἐπιθυμιας	επιθυμιας	ἐπιθυμία	e)piqumi/aj	e)piqumiaj	epiqumiaj	e)piqumi/a			
+2	12	D-	--------	8	σωφρόνως	σωφρονως	σωφρονως	σωφρόνως	swfro/nwj	swfronwj	swfronwj	swfro/nwj			
+2	12	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	12	D-	--------	8	δικαίως	δικαιως	δικαιως	δικαίως	dikai/wj	dikaiwj	dikaiwj	dikai/wj			
+2	12	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	12	D-	--------	8	εὐσεβῶς	εὐσεβως	ευσεβως	εὐσεβῶς	eu)sebw~j	eu)sebwj	eusebwj	eu)sebw~j			
+2	12	V-	1AAS-P--	862977	ζήσωμεν	ζησωμεν	ζησωμεν	ζάω	zh/swmen	zhswmen	zhswmen	za/w			
+2	12	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+2	12	RA	----DSM-	10	τῷ	τω	τω	ὁ	tw~|	tw	tw	o(			
+2	12	D-	--------	8	νῦν	νυν	νυν	νῦν	nu~n	nun	nun	nu~n			
+2	12	N-	----DSM-	9602	αἰῶνι	αἰωνι	αιωνι	αἰών	ai)w~ni	ai)wni	aiwni	ai)w/n			,
+2	13	V-	-PMPNPM-	832961	προσδεχόμενοι	προσδεχομενοι	προσδεχομενοι	προσδέχομαι	prosdexo/menoi	prosdexomenoi	prosdexomenoi	prosde/xomai			
+2	13	RA	----ASF-	10	τὴν	την	την	ὁ	th\n	thn	thn	o(			
+2	13	A-	----ASF-	13571	μακαρίαν	μακαριαν	μακαριαν	μακάριος	makari/an	makarian	makarian	maka/rioj			
+2	13	N-	----ASF-	13570	ἐλπίδα	ἐλπιδα	ελπιδα	ἐλπίς	e)lpi/da	e)lpida	elpida	e)lpi/j			
+2	13	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	13	N-	----ASF-	13570	ἐπιφάνειαν	ἐπιφανειαν	επιφανειαν	ἐπιφάνεια	e)pifa/neian	e)pifaneian	epifaneian	e)pifa/neia			
+2	13	RA	----GSF-	10	τῆς	της	της	ὁ	th~j	thj	thj	o(			
+2	13	N-	----GSF-	13634	δόξης	δοξης	δοξης	δόξα	do/chj	dochj	dochj	do/ca			
+2	13	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+2	13	A-	----GSM-	9539	μεγάλου	μεγαλου	μεγαλου	μέγας	mega/lou	megalou	megalou	me/gaj			
+2	13	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			
+2	13	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	13	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+2	13	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+2	13	N-	----GSM-	9538	Ἰησοῦ	ἰησου	ιησου	Ἰησοῦς	I)hsou~	i)hsou	ihsou	I)hsou~j			
+2	13	N-	----GSM-	9538	Χριστοῦ	χριστου	χριστου	Χριστός	Xristou~	xristou	xristou	Xristo/j			,
+2	14	RR	----NSM-	14	ὃς	ὁς	ος	ὅς	o\(j	o(j	oj	o/(j			
+2	14	V-	3AAI-S--	633473	ἔδωκεν	ἐδωκεν	εδωκεν	δίδωμι	e/)dwken	e)dwken	edwken	di/dwmi			
+2	14	RP	----ASM-	13	ἑαυτὸν	ἑαυτον	εαυτον	ἑαυτοῦ	e(auto\n	e(auton	eauton	e(autou~			
+2	14	P-	--------	7	ὑπὲρ	ὑπερ	υπερ	ὑπέρ	u(pe\r	u(per	uper	u(pe/r			
+2	14	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+2	14	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+2	14	V-	3AMS-S--	637697	λυτρώσηται	λυτρωσηται	λυτρωσηται	λυτρόομαι	lutrw/shtai	lutrwshtai	lutrwshtai	lutro/omai			
+2	14	RP	----AP--	13	ἡμᾶς	ἡμας	ημας	ἐγώ	h(ma~j	h(maj	hmaj	e)gw/			
+2	14	P-	--------	7	ἀπὸ	ἀπο	απο	ἀπό	a)po\	a)po	apo	a)po/			
+2	14	A-	----GSF-	13635	πάσης	πασης	πασης	πᾶς	pa/shj	pashj	pashj	pa~j			
+2	14	N-	----GSF-	13634	ἀνομίας	ἀνομιας	ανομιας	ἀνομία	a)nomi/aj	a)nomiaj	anomiaj	a)nomi/a			
+2	14	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	14	V-	3AAS-S--	633601	καθαρίσῃ	καθαριση	καθαριση	καθαρίζω	kaqari/sh|	kaqarish	kaqarish	kaqari/zw			
+2	14	RP	----DSM-	13	ἑαυτῷ	ἑαυτω	εαυτω	ἑαυτοῦ	e(autw~|	e(autw	eautw	e(autou~			
+2	14	N-	----ASM-	9474	λαὸν	λαον	λαον	λαός	lao\n	laon	laon	lao/j			
+2	14	A-	----ASM-	9475	περιούσιον	περιουσιον	περιουσιον	περιούσιος	periou/sion	periousion	periousion	periou/sioj			,
+2	14	N-	----ASM-	9474	ζηλωτὴν	ζηλωτην	ζηλωτην	ζηλωτής	zhlwth\n	zhlwthn	zhlwthn	zhlwth/j			
+2	14	A-	----GPN-	18243	καλῶν	καλων	καλων	καλός	kalw~n	kalwn	kalwn	kalo/j			
+2	14	N-	----GPN-	18242	ἔργων	ἐργων	εργων	ἔργον	e/)rgwn	e)rgwn	ergwn	e/)rgon			.
+2	15	RD	----APN-	11	Ταῦτα	ταυτα	ταυτα	οὗτος	Tau~ta	tauta	tauta	ou~(toj			
+2	15	V-	2PAD-S--	632001	λάλει	λαλει	λαλει	λαλέω	la/lei	lalei	lalei	lale/w			
+2	15	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	15	V-	2PAD-S--	632001	παρακάλει	παρακαλει	παρακαλει	παρακαλέω	paraka/lei	parakalei	parakalei	parakale/w			
+2	15	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+2	15	V-	2PAD-S--	632001	ἔλεγχε	ἐλεγχε	ελεγχε	ἐλέγχω	e/)legxe	e)legxe	elegxe	e)le/gxw			
+2	15	P-	--------	7	μετὰ	μετα	μετα	μετά	meta\	meta	meta	meta/			
+2	15	A-	----GSF-	13635	πάσης	πασης	πασης	πᾶς	pa/shj	pashj	pashj	pa~j			
+2	15	N-	----GSF-	13634	ἐπιταγῆς	ἐπιταγης	επιταγης	ἐπιταγή	e)pitagh~j	e)pitaghj	epitaghj	e)pitagh/			·
+2	15	A-	----NSM-	9347	μηδείς	μηδεις	μηδεις	μηδείς	mhdei/j	mhdeij	mhdeij	mhdei/j			
+2	15	RP	----GS--	13	σου	σου	σου	σύ	sou	sou	sou	su/			
+2	15	V-	3PAD-S--	632001	περιφρονείτω	περιφρονειτω	περιφρονειτω	περιφρονέω	perifronei/tw	perifroneitw	perifroneitw	perifrone/w			.
+3	1	V-	2PAD-S--	632001	Ὑπομίμνῃσκε	ὑπομιμνησκε	υπομιμνησκε	ὑπομιμνῄσκω	U(pomi/mnh|ske	u(pomimnhske	upomimnhske	u(pomimnh/|skw			
+3	1	RP	----APM-	13	αὐτοὺς	αὐτους	αυτους	ἑαυτοῦ	au)tou\j	au)touj	autouj	e(autou~			
+3	1	N-	----DPF-	14210	ἀρχαῖς	ἀρχαις	αρχαις	ἀρχή	a)rxai~j	a)rxaij	arxaij	a)rxh/			
+3	1	N-	----DPF-	14210	ἐξουσίαις	ἐξουσιαις	εξουσιαις	ἐξουσία	e)cousi/aij	e)cousiaij	ecousiaij	e)cousi/a			
+3	1	V-	-PPN----	2409857	ὑποτάσσεσθαι	ὑποτασσεσθαι	υποτασσεσθαι	ὑποτάσσω	u(pota/ssesqai	u(potassesqai	upotassesqai	u(pota/ssw			
+3	1	V-	-PAN----	304513	πειθαρχεῖν	πειθαρχειν	πειθαρχειν	πειθαρχέω	peiqarxei~n	peiqarxein	peiqarxein	peiqarxe/w			,
+3	1	P-	--------	7	πρὸς	προς	προς	πρός	pro\j	proj	proj	pro/j			
+3	1	A-	----ASN-	17667	πᾶν	παν	παν	πᾶς	pa~n	pan	pan	pa~j			
+3	1	N-	----ASN-	17666	ἔργον	ἐργον	εργον	ἔργον	e/)rgon	e)rgon	ergon	e/)rgon			
+3	1	A-	----ASN-	17667	ἀγαθὸν	ἀγαθον	αγαθον	ἀγαθός	a)gaqo\n	a)gaqon	agaqon	a)gaqo/j			
+3	1	A-	----APM-	9987	ἑτοίμους	ἑτοιμους	ετοιμους	ἕτοιμος	e(toi/mouj	e(toimouj	etoimouj	e/(toimoj			
+3	1	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			,
+3	2	A-	----ASM-	9475	μηδένα	μηδενα	μηδενα	μηδείς	mhde/na	mhdena	mhdena	mhdei/j			
+3	2	V-	-PAN----	304513	βλασφημεῖν	βλασφημειν	βλασφημειν	βλασφημέω	blasfhmei~n	blasfhmein	blasfhmein	blasfhme/w			,
+3	2	A-	----APM-	9987	ἀμάχους	ἀμαχους	αμαχους	ἄμαχος	a)ma/xouj	a)maxouj	amaxouj	a/)maxoj			
+3	2	V-	-PAN----	304513	εἶναι	εἰναι	ειναι	εἰμί	ei~)nai	ei)nai	einai	ei)mi/			,
+3	2	A-	----APM-	9987	ἐπιεικεῖς	ἐπιεικεις	επιεικεις	ἐπιεικής	e)pieikei~j	e)pieikeij	epieikeij	e)pieikh/j			,
+3	2	A-	----ASF-	13571	πᾶσαν	πασαν	πασαν	πᾶς	pa~san	pasan	pasan	pa~j			
+3	2	V-	-PMPAPM-	832961	ἐνδεικνυμένους	ἐνδεικνυμενους	ενδεικνυμενους	ἐνδείκνυμι	e)ndeiknume/nouj	e)ndeiknumenouj	endeiknumenouj	e)ndei/knumi			
+3	2	N-	----ASF-	13570	πραΰτητα	πραϋτητα	πραυτητα	πραΰτης	prau/:thta	prau:thta	prauthta	prau/:thj			
+3	2	P-	--------	7	πρὸς	προς	προς	πρός	pro\j	proj	proj	pro/j			
+3	2	A-	----APM-	9987	πάντας	παντας	παντας	πᾶς	pa/ntaj	pantaj	pantaj	pa~j			
+3	2	N-	----APM-	9986	ἀνθρώπους	ἀνθρωπους	ανθρωπους	ἄνθρωπος	a)nqrw/pouj	a)nqrwpouj	anqrwpouj	a/)nqrwpoj			.
+3	3	V-	1IAI-P--	861825	ἦμεν	ἠμεν	ημεν	εἰμί	h~)men	h)men	hmen	ei)mi/			
+3	3	C-	--------	4	γάρ	γαρ	γαρ	γάρ	ga/r	gar	gar	ga/r			
+3	3	X-	--------	5	ποτε	ποτε	ποτε	ποτέ	pote	pote	pote	pote/			
+3	3	D-	--------	8	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	3	RP	----NP--	13	ἡμεῖς	ἡμεις	ημεις	ἐγώ	h(mei~j	h(meij	hmeij	e)gw/			
+3	3	A-	----NPM-	9859	ἀνόητοι	ἀνοητοι	ανοητοι	ἀνόητος	a)no/htoi	a)nohtoi	anohtoi	a)no/htoj			,
+3	3	A-	----NPM-	9859	ἀπειθεῖς	ἀπειθεις	απειθεις	ἀπειθής	a)peiqei~j	a)peiqeij	apeiqeij	a)peiqh/j			,
+3	3	V-	-PPPNPM-	5064129	πλανώμενοι	πλανωμενοι	πλανωμενοι	πλανάω	planw/menoi	planwmenoi	planwmenoi	plana/w			,
+3	3	V-	-PAPNPM-	828865	δουλεύοντες	δουλευοντες	δουλευοντες	δουλεύω	douleu/ontej	douleuontej	douleuontej	douleu/w			
+3	3	N-	----DPF-	14210	ἐπιθυμίαις	ἐπιθυμιαις	επιθυμιαις	ἐπιθυμία	e)piqumi/aij	e)piqumiaij	epiqumiaij	e)piqumi/a			
+3	3	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	3	N-	----DPF-	14210	ἡδοναῖς	ἡδοναις	ηδοναις	ἡδονή	h(donai~j	h(donaij	hdonaij	h(donh/			
+3	3	A-	----DPF-	14211	ποικίλαις	ποικιλαις	ποικιλαις	ποικίλος	poiki/laij	poikilaij	poikilaij	poiki/loj			,
+3	3	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+3	3	N-	----DSF-	13698	κακίᾳ	κακια	κακια	κακία	kaki/a|	kakia	kakia	kaki/a			
+3	3	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	3	N-	----DSM-	9602	φθόνῳ	φθονω	φθονω	φθόνος	fqo/nw|	fqonw	fqonw	fqo/noj			
+3	3	V-	-PAPNPM-	828865	διάγοντες	διαγοντες	διαγοντες	διάγω	dia/gontej	diagontej	diagontej	dia/gw			,
+3	3	A-	----NPM-	9859	στυγητοί	στυγητοι	στυγητοι	στυγητός	stughtoi/	stughtoi	stughtoi	stughto/j			,
+3	3	V-	-PAPNPM-	828865	μισοῦντες	μισουντες	μισουντες	μισέω	misou~ntej	misountej	misountej	mise/w			
+3	3	RP	----APM-	13	ἀλλήλους	ἀλληλους	αλληλους	ἀλλήλων	a)llh/louj	a)llhlouj	allhlouj	a)llh/lwn			.
+3	4	C-	--------	4	ὅτε	ὁτε	οτε	ὅτε	o/(te	o(te	ote	o/(te			
+3	4	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+3	4	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+3	4	N-	----NSF-	13442	χρηστότης	χρηστοτης	χρηστοτης	χρηστότης	xrhsto/thj	xrhstothj	xrhstothj	xrhsto/thj			
+3	4	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	4	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+3	4	N-	----NSF-	13442	φιλανθρωπία	φιλανθρωπια	φιλανθρωπια	φιλανθρωπία	filanqrwpi/a	filanqrwpia	filanqrwpia	filanqrwpi/a			
+3	4	V-	3API-S--	2673281	ἐπεφάνη	ἐπεφανη	επεφανη	ἐπιφαίνω	e)pefa/nh	e)pefanh	epefanh	e)pifai/nw			
+3	4	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+3	4	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+3	4	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			
+3	4	N-	----GSM-	9538	θεοῦ	θεου	θεου	θεός	qeou~	qeou	qeou	qeo/j			,
+3	5	D-	--------	8	οὐκ	οὐκ	ουκ	οὐ	ou)k	ou)k	ouk	ou)			
+3	5	P-	--------	7	ἐξ	ἐξ	εξ	ἐκ	e)c	e)c	ec	e)k			
+3	5	N-	----GPN-	18242	ἔργων	ἐργων	εργων	ἔργον	e/)rgwn	e)rgwn	ergwn	e/)rgon			
+3	5	RA	----GPN-	10	τῶν	των	των	ὁ	tw~n	twn	twn	o(			
+3	5	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+3	5	N-	----DSF-	13698	δικαιοσύνῃ	δικαιοσυνη	δικαιοσυνη	δικαιοσύνη	dikaiosu/nh|	dikaiosunh	dikaiosunh	dikaiosu/nh			
+3	5	RR	----APN-	14	ἃ	ἁ	α	ὅς	a\(	a(	a	o/(j			
+3	5	V-	1AAI-P--	862849	ἐποιήσαμεν	ἐποιησαμεν	εποιησαμεν	ποιέω	e)poih/samen	e)poihsamen	epoihsamen	poie/w			
+3	5	RP	----NP--	13	ἡμεῖς	ἡμεις	ημεις	ἐγώ	h(mei~j	h(meij	hmeij	e)gw/			
+3	5	C-	--------	4	ἀλλὰ	ἀλλα	αλλα	ἀλλά	a)lla\	a)lla	alla	a)lla/			
+3	5	P-	--------	7	κατὰ	κατα	κατα	κατά	kata\	kata	kata	kata/			
+3	5	RA	----ASN-	10	τὸ	το	το	ὁ	to\	to	to	o(			
+3	5	RP	----GSM-	13	αὐτοῦ	αὐτου	αυτου	αὐτός	au)tou~	au)tou	autou	au)to/j			
+3	5	N-	----ASN-	17666	ἔλεος	ἐλεος	ελεος	ἔλεος	e/)leoj	e)leoj	eleoj	e/)leoj			
+3	5	V-	3AAI-S--	633473	ἔσωσεν	ἐσωσεν	εσωσεν	σῴζω	e/)swsen	e)swsen	eswsen	sw/|zw			
+3	5	RP	----AP--	13	ἡμᾶς	ἡμας	ημας	ἐγώ	h(ma~j	h(maj	hmaj	e)gw/			
+3	5	P-	--------	7	διὰ	δια	δια	διά	dia\	dia	dia	dia/			
+3	5	N-	----GSN-	17730	λουτροῦ	λουτρου	λουτρου	λουτρόν	loutrou~	loutrou	loutrou	loutro/n			
+3	5	N-	----GSF-	13634	παλιγγενεσίας	παλιγγενεσιας	παλιγγενεσιας	παλιγγενεσία	paliggenesi/aj	paliggenesiaj	paliggenesiaj	paliggenesi/a			
+3	5	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	5	N-	----GSF-	13634	ἀνακαινώσεως	ἀνακαινωσεως	ανακαινωσεως	ἀνακαίνωσις	a)nakainw/sewj	a)nakainwsewj	anakainwsewj	a)nakai/nwsij			
+3	5	N-	----GSN-	17730	πνεύματος	πνευματος	πνευματος	πνεῦμα	pneu/matoj	pneumatoj	pneumatoj	pneu~ma			
+3	5	A-	----GSN-	17731	ἁγίου	ἁγιου	αγιου	ἅγιος	a(gi/ou	a(giou	agiou	a/(gioj			,
+3	6	RR	----GSN-	14	οὗ	οὑ	ου	ὅς	ou~(	ou(	ou	o/(j			
+3	6	V-	3AAI-S--	633473	ἐξέχεεν	ἐξεχεεν	εξεχεεν	ἐκχέω	e)ce/xeen	e)cexeen	ecexeen	e)kxe/w			
+3	6	P-	--------	7	ἐφ	ἐφ	εφ	ἐπί	e)f	e)f	ef	e)pi/			
+3	6	RP	----AP--	13	ἡμᾶς	ἡμας	ημας	ἐγώ	h(ma~j	h(maj	hmaj	e)gw/			
+3	6	D-	--------	8	πλουσίως	πλουσιως	πλουσιως	πλουσίως	plousi/wj	plousiwj	plousiwj	plousi/wj			
+3	6	P-	--------	7	διὰ	δια	δια	διά	dia\	dia	dia	dia/			
+3	6	N-	----GSM-	9538	Ἰησοῦ	ἰησου	ιησου	Ἰησοῦς	I)hsou~	i)hsou	ihsou	I)hsou~j			
+3	6	N-	----GSM-	9538	Χριστοῦ	χριστου	χριστου	Χριστός	Xristou~	xristou	xristou	Xristo/j			
+3	6	RA	----GSM-	10	τοῦ	του	του	ὁ	tou~	tou	tou	o(			
+3	6	N-	----GSM-	9538	σωτῆρος	σωτηρος	σωτηρος	σωτήρ	swth~roj	swthroj	swthroj	swth/r			
+3	6	RP	----GP--	13	ἡμῶν	ἡμων	ημων	ἐγώ	h(mw~n	h(mwn	hmwn	e)gw/			,
+3	7	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+3	7	V-	-APPNPM-	5065665	δικαιωθέντες	δικαιωθεντες	δικαιωθεντες	δικαιόω	dikaiwqe/ntej	dikaiwqentej	dikaiwqentej	dikaio/w			
+3	7	RA	----DSF-	10	τῇ	τη	τη	ὁ	th~|	th	th	o(			
+3	7	RD	----GSM-	11	ἐκείνου	ἐκεινου	εκεινου	ἐκεῖνος	e)kei/nou	e)keinou	ekeinou	e)kei~noj			
+3	7	N-	----DSF-	13698	χάριτι	χαριτι	χαριτι	χάρις	xa/riti	xariti	xariti	xa/rij			
+3	7	N-	----NPM-	9858	κληρονόμοι	κληρονομοι	κληρονομοι	κληρονόμος	klhrono/moi	klhronomoi	klhronomoi	klhrono/moj			
+3	7	V-	1APS-P--	2935553	γενηθῶμεν	γενηθωμεν	γενηθωμεν	γίνομαι	genhqw~men	genhqwmen	genhqwmen	gi/nomai			
+3	7	P-	--------	7	κατ	κατ	κατ	κατά	kat	kat	kat	kata/			
+3	7	N-	----ASF-	13570	ἐλπίδα	ἐλπιδα	ελπιδα	ἐλπίς	e)lpi/da	e)lpida	elpida	e)lpi/j			
+3	7	N-	----GSF-	13634	ζωῆς	ζωης	ζωης	ζωή	zwh~j	zwhj	zwhj	zwh/			
+3	7	A-	----GSF-	13635	αἰωνίου	αἰωνιου	αιωνιου	αἰώνιος	ai)wni/ou	ai)wniou	aiwniou	ai)w/nioj			.
+3	8	A-	----NSM-	9347	Πιστὸς	πιστος	πιστος	πιστός	Pisto\j	pistoj	pistoj	pisto/j			
+3	8	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+3	8	N-	----NSM-	9346	λόγος	λογος	λογος	λόγος	lo/goj	logoj	logoj	lo/goj			,
+3	8	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	8	P-	--------	7	περὶ	περι	περι	περί	peri\	peri	peri	peri/			
+3	8	RD	----GPN-	11	τούτων	τουτων	τουτων	οὗτος	tou/twn	toutwn	toutwn	ou~(toj			
+3	8	V-	1PMI-S--	603265	βούλομαί	βουλομαι	βουλομαι	βούλομαι	bou/lomai/	boulomai	boulomai	bou/lomai			
+3	8	RP	----AS--	13	σε	σε	σε	σύ	se	se	se	su/			
+3	8	V-	-PMN----	308609	διαβεβαιοῦσθαι	διαβεβαιουσθαι	διαβεβαιουσθαι	διαβεβαιόομαι	diabebaiou~sqai	diabebaiousqai	diabebaiousqai	diabebaio/omai			,
+3	8	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+3	8	V-	3PAS-P--	894209	φροντίζωσιν	φροντιζωσιν	φροντιζωσιν	φροντίζω	fronti/zwsin	frontizwsin	frontizwsin	fronti/zw			
+3	8	A-	----GPN-	18243	καλῶν	καλων	καλων	καλός	kalw~n	kalwn	kalwn	kalo/j			
+3	8	N-	----GPN-	18242	ἔργων	ἐργων	εργων	ἔργον	e/)rgwn	e)rgwn	ergwn	e/)rgon			
+3	8	V-	-PMN----	308609	προΐστασθαι	προϊστασθαι	προιστασθαι	προΐστημι	proi/:stasqai	proi:stasqai	proistasqai	proi/:sthmi			
+3	8	RA	----NPM-	10	οἱ	οἱ	οι	ὁ	oi(	oi(	oi	o(			
+3	8	V-	-XAPNPM-	830913	πεπιστευκότες	πεπιστευκοτες	πεπιστευκοτες	πιστεύω	pepisteuko/tej	pepisteukotej	pepisteukotej	pisteu/w			
+3	8	N-	----DSM-	9602	θεῷ	θεω	θεω	θεός	qew~|	qew	qew	qeo/j			.
+3	8	RD	----NPN-	11	ταῦτά	ταυτα	ταυτα	οὗτος	tau~ta/	tauta	tauta	ou~(toj			
+3	8	V-	3PAI-S--	631937	ἐστιν	ἐστιν	εστιν	εἰμί	e)stin	e)stin	estin	ei)mi/			
+3	8	A-	----NPN-	18051	καλὰ	καλα	καλα	καλός	kala\	kala	kala	kalo/j			
+3	8	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	8	A-	----NPN-	18051	ὠφέλιμα	ὠφελιμα	ωφελιμα	ὠφέλιμος	w)fe/lima	w)felima	wfelima	w)fe/limoj			
+3	8	RA	----DPM-	10	τοῖς	τοις	τοις	ὁ	toi~j	toij	toij	o(			
+3	8	N-	----DPM-	10114	ἀνθρώποις	ἀνθρωποις	ανθρωποις	ἄνθρωπος	a)nqrw/poij	a)nqrwpoij	anqrwpoij	a/)nqrwpoj			·
+3	9	A-	----APF-	14083	μωρὰς	μωρας	μωρας	μωρός	mwra\j	mwraj	mwraj	mwro/j			
+3	9	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+3	9	N-	----APF-	14082	ζητήσεις	ζητησεις	ζητησεις	ζήτησις	zhth/seij	zhthseij	zhthseij	zh/thsij			
+3	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	9	N-	----APF-	14082	γενεαλογίας	γενεαλογιας	γενεαλογιας	γενεαλογία	genealogi/aj	genealogiaj	genealogiaj	genealogi/a			
+3	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	9	N-	----APF-	14082	ἔρεις	ἐρεις	ερεις	ἔρις	e/)reij	e)reij	ereij	e/)rij			
+3	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	9	N-	----APF-	14082	μάχας	μαχας	μαχας	μάχη	ma/xaj	maxaj	maxaj	ma/xh			
+3	9	A-	----APF-	14083	νομικὰς	νομικας	νομικας	νομικός	nomika\j	nomikaj	nomikaj	nomiko/j			
+3	9	V-	2PMD-S--	636097	περιΐστασο	περιϊστασο	περιιστασο	περιΐστημι	perii/:staso	perii:staso	periistaso	perii/:sthmi			,
+3	9	V-	3PAI-P--	894081	εἰσὶν	εἰσιν	εισιν	εἰμί	ei)si\n	ei)sin	eisin	ei)mi/			
+3	9	C-	--------	4	γὰρ	γαρ	γαρ	γάρ	ga\r	gar	gar	ga/r			
+3	9	A-	----NPF-	13955	ἀνωφελεῖς	ἀνωφελεις	ανωφελεις	ἀνωφελής	a)nwfelei~j	a)nwfeleij	anwfeleij	a)nwfelh/j			
+3	9	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	9	A-	----NPF-	13955	μάταιοι	ματαιοι	ματαιοι	μάταιος	ma/taioi	mataioi	mataioi	ma/taioj			.
+3	10	A-	----ASM-	9475	αἱρετικὸν	αἱρετικον	αιρετικον	αἱρετικός	ai(retiko\n	ai(retikon	airetikon	ai(retiko/j			
+3	10	N-	----ASM-	9474	ἄνθρωπον	ἀνθρωπον	ανθρωπον	ἄνθρωπος	a/)nqrwpon	a)nqrwpon	anqrwpon	a/)nqrwpoj			
+3	10	P-	--------	7	μετὰ	μετα	μετα	μετά	meta\	meta	meta	meta/			
+3	10	A-	----ASF-	13571	μίαν	μιαν	μιαν	εἷς	mi/an	mian	mian	ei~(j			
+3	10	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	10	A-	----ASF-	13571	δευτέραν	δευτεραν	δευτεραν	δεύτερος	deute/ran	deuteran	deuteran	deu/teroj			
+3	10	N-	----ASF-	13570	νουθεσίαν	νουθεσιαν	νουθεσιαν	νουθεσία	nouqesi/an	nouqesian	nouqesian	nouqesi/a			
+3	10	V-	2PMD-S--	636097	παραιτοῦ	παραιτου	παραιτου	παραιτέομαι	paraitou~	paraitou	paraitou	paraite/omai			,
+3	11	V-	-XAPNSM-	568769	εἰδὼς	εἰδως	ειδως	ὁράω	ei)dw\j	ei)dwj	eidwj	o(ra/w			
+3	11	C-	--------	4	ὅτι	ὁτι	οτι	ὅτι	o/(ti	o(ti	oti	o/(ti			
+3	11	V-	3XPI-S--	2673793	ἐξέστραπται	ἐξεστραπται	εξεστραπται	ἐκστρέφομαι	e)ce/straptai	e)cestraptai	ecestraptai	e)kstre/fomai			
+3	11	RA	----NSM-	10	ὁ	ὁ	ο	ὁ	o(	o(	o	o(			
+3	11	RD	----NSM-	11	τοιοῦτος	τοιουτος	τοιουτος	τοιοῦτος	toiou~toj	toioutoj	toioutoj	toiou~toj			
+3	11	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	11	V-	3PAI-S--	631937	ἁμαρτάνει	ἁμαρτανει	αμαρτανει	ἁμαρτάνω	a(marta/nei	a(martanei	amartanei	a(marta/nw			,
+3	11	V-	-PAPNSM-	566721	ὢν	ὠν	ων	εἰμί	w\)n	w)n	wn	ei)mi/			
+3	11	A-	----NSM-	9347	αὐτοκατάκριτος	αὐτοκατακριτος	αυτοκατακριτος	αὐτοκατάκριτος	au)tokata/kritoj	au)tokatakritoj	autokatakritoj	au)tokata/kritoj			.
+3	12	C-	--------	4	Ὅταν	ὁταν	οταν	ὅταν	O/(tan	o(tan	otan	o/(tan			
+3	12	V-	1AAS-S--	600833	πέμψω	πεμψω	πεμψω	πέμπω	pe/myw	pemyw	pemyw	pe/mpw			
+3	12	N-	----ASM-	9474	Ἀρτεμᾶν	ἀρτεμαν	αρτεμαν	Ἀρτεμᾶς	A)rtema~n	a)rteman	arteman	A)rtema~j			
+3	12	P-	--------	7	πρὸς	προς	προς	πρός	pro\j	proj	proj	pro/j			
+3	12	RP	----AS--	13	σὲ	σε	σε	σύ	se\	se	se	su/			
+3	12	C-	--------	4	ἢ	ἠ	η	ἤ	h\)	h)	h	h/)			
+3	12	N-	----ASM-	9474	Τυχικόν	τυχικον	τυχικον	Τυχικός	Tuxiko/n	tuxikon	tuxikon	Tuxiko/j			,
+3	12	V-	2AAD-S--	633537	σπούδασον	σπουδασον	σπουδασον	σπουδάζω	spou/dason	spoudason	spoudason	spouda/zw			
+3	12	V-	-AAN----	306049	ἐλθεῖν	ἐλθειν	ελθειν	ἔρχομαι	e)lqei~n	e)lqein	elqein	e/)rxomai			
+3	12	P-	--------	7	πρός	προς	προς	πρός	pro/j	proj	proj	pro/j			
+3	12	RP	----AS--	13	με	με	με	ἐγώ	me	me	me	e)gw/			
+3	12	P-	--------	7	εἰς	εἰς	εις	εἰς	ei)j	ei)j	eij	ei)j			
+3	12	N-	----ASF-	13570	Νικόπολιν	νικοπολιν	νικοπολιν	Νικόπολις	Niko/polin	nikopolin	nikopolin	Niko/polij			,
+3	12	D-	--------	8	ἐκεῖ	ἐκει	εκει	ἐκεῖ	e)kei~	e)kei	ekei	e)kei~			
+3	12	C-	--------	4	γὰρ	γαρ	γαρ	γάρ	ga\r	gar	gar	ga/r			
+3	12	V-	1XAI-S--	601217	κέκρικα	κεκρικα	κεκρικα	κρίνω	ke/krika	kekrika	kekrika	kri/nw			
+3	12	V-	-AAN----	306049	παραχειμάσαι	παραχειμασαι	παραχειμασαι	παραχειμάζω	paraxeima/sai	paraxeimasai	paraxeimasai	paraxeima/zw			.
+3	13	N-	----ASM-	9474	ζηνᾶν	ζηναν	ζηναν	Ζηνᾶς	zhna~n	zhnan	zhnan	Zhna~j			
+3	13	RA	----ASM-	10	τὸν	τον	τον	ὁ	to\n	ton	ton	o(			
+3	13	A-	----ASM-	9475	νομικὸν	νομικον	νομικον	νομικός	nomiko\n	nomikon	nomikon	nomiko/j			
+3	13	C-	--------	4	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	13	N-	----ASM-	9474	Ἀπολλῶν	ἀπολλων	απολλων	Ἀπολλῶς	A)pollw~n	a)pollwn	apollwn	A)pollw~j			
+3	13	D-	--------	8	σπουδαίως	σπουδαιως	σπουδαιως	σπουδαίως	spoudai/wj	spoudaiwj	spoudaiwj	spoudai/wj			
+3	13	V-	2AAD-S--	633537	πρόπεμψον	προπεμψον	προπεμψον	προπέμπω	pro/pemyon	propemyon	propemyon	prope/mpw			,
+3	13	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+3	13	A-	----NSN-	17539	μηδὲν	μηδεν	μηδεν	μηδείς	mhde\n	mhden	mhden	mhdei/j			
+3	13	RP	----DPM-	13	αὐτοῖς	αὐτοις	αυτοις	αὐτός	au)toi~j	au)toij	autoij	au)to/j			
+3	13	V-	3PAS-S--	632065	λείπῃ	λειπη	λειπη	λείπω	lei/ph|	leiph	leiph	lei/pw			.
+3	14	V-	3PAD-P--	894145	μανθανέτωσαν	μανθανετωσαν	μανθανετωσαν	μανθάνω	manqane/twsan	manqanetwsan	manqanetwsan	manqa/nw			
+3	14	C-	--------	4	δὲ	δε	δε	δέ	de\	de	de	de/			
+3	14	D-	--------	8	καὶ	και	και	καί	kai\	kai	kai	kai/			
+3	14	RA	----NPM-	10	οἱ	οἱ	οι	ὁ	oi(	oi(	oi	o(			
+3	14	A-	----NPM-	9859	ἡμέτεροι	ἡμετεροι	ημετεροι	ἡμέτερος	h(me/teroi	h(meteroi	hmeteroi	h(me/teroj			
+3	14	A-	----GPN-	18243	καλῶν	καλων	καλων	καλός	kalw~n	kalwn	kalwn	kalo/j			
+3	14	N-	----GPN-	18242	ἔργων	ἐργων	εργων	ἔργον	e/)rgwn	e)rgwn	ergwn	e/)rgon			
+3	14	V-	-PMN----	308609	προΐστασθαι	προϊστασθαι	προιστασθαι	προΐστημι	proi/:stasqai	proi:stasqai	proistasqai	proi/:sthmi			
+3	14	P-	--------	7	εἰς	εἰς	εις	εἰς	ei)j	ei)j	eij	ei)j			
+3	14	RA	----APF-	10	τὰς	τας	τας	ὁ	ta\j	taj	taj	o(			
+3	14	A-	----APF-	14083	ἀναγκαίας	ἀναγκαιας	αναγκαιας	ἀναγκαῖος	a)nagkai/aj	a)nagkaiaj	anagkaiaj	a)nagkai~oj			
+3	14	N-	----APF-	14082	χρείας	χρειας	χρειας	χρεία	xrei/aj	xreiaj	xreiaj	xrei/a			,
+3	14	C-	--------	4	ἵνα	ἱνα	ινα	ἵνα	i/(na	i(na	ina	i/(na			
+3	14	D-	--------	8	μὴ	μη	μη	μή	mh\	mh	mh	mh/			
+3	14	V-	3PAS-P--	894209	ὦσιν	ὠσιν	ωσιν	εἰμί	w~)sin	w)sin	wsin	ei)mi/			
+3	14	A-	----NPM-	9859	ἄκαρποι	ἀκαρποι	ακαρποι	ἄκαρπος	a/)karpoi	a)karpoi	akarpoi	a/)karpoj			.
+3	15	V-	3PMI-P--	898177	Ἀσπάζονταί	ἀσπαζονται	ασπαζονται	ἀσπάζομαι	A)spa/zontai/	a)spazontai	aspazontai	a)spa/zomai			
+3	15	RP	----AS--	13	σε	σε	σε	σύ	se	se	se	su/			
+3	15	RA	----NPM-	10	οἱ	οἱ	οι	ὁ	oi(	oi(	oi	o(			
+3	15	P-	--------	7	μετ	μετ	μετ	μετά	met	met	met	meta/			
+3	15	RP	----GS--	13	ἐμοῦ	ἐμου	εμου	ἐγώ	e)mou~	e)mou	emou	e)gw/			
+3	15	A-	----NPM-	9859	πάντες	παντες	παντες	πᾶς	pa/ntej	pantej	pantej	pa~j			.
+3	15	V-	2AMD-S--	637633	ἄσπασαι	ἀσπασαι	ασπασαι	ἀσπάζομαι	a/)spasai	a)spasai	aspasai	a)spa/zomai			
+3	15	RA	----APM-	10	τοὺς	τους	τους	ὁ	tou\j	touj	touj	o(			
+3	15	V-	-PAPAPM-	828865	φιλοῦντας	φιλουντας	φιλουντας	φιλέω	filou~ntaj	filountaj	filountaj	file/w			
+3	15	RP	----AP--	13	ἡμᾶς	ἡμας	ημας	ἐγώ	h(ma~j	h(maj	hmaj	e)gw/			
+3	15	P-	--------	7	ἐν	ἐν	εν	ἐν	e)n	e)n	en	e)n			
+3	15	N-	----DSF-	13698	πίστει	πιστει	πιστει	πίστις	pi/stei	pistei	pistei	pi/stij			.
+3	15	RA	----NSF-	10	ἡ	ἡ	η	ὁ	h(	h(	h	o(			
+3	15	N-	----NSF-	13442	χάρις	χαρις	χαρις	χάρις	xa/rij	xarij	xarij	xa/rij			
+3	15	P-	--------	7	μετὰ	μετα	μετα	μετά	meta\	meta	meta	meta/			
+3	15	A-	----GPM-	10051	πάντων	παντων	παντων	πᾶς	pa/ntwn	pantwn	pantwn	pa~j			
+3	15	RP	----GP--	13	ὑμῶν	ὑμων	υμων	σύ	u(mw~n	u(mwn	umwn	su/			.
